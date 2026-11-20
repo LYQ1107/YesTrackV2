@@ -1,0 +1,80 @@
+{
+  "OmniJev__OneJev1.5-9B": {
+    "path": "/home/user/.cache/r58_calibration/models/OmniJev__OneJev1.5-9B/ec2f276eab207810f576fb1f2d68c2acabd3eb71/model.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/OmniJev__OneJev1.5-9B/ec2f276eab207810f576fb1f2d68c2acabd3eb71/model.safetensors",
+    "bytes": "18819722392",
+    "category": "published_models",
+    "action": "defer",
+    "family": "\u53ef\u91cd\u65b0\u4e0b\u8f7d\u7684\u53d1\u5e03\u6a21\u578b",
+    "reason": "\u672c\u8f6e\u4e0d\u642c\u5168\u90e8\u516c\u5f00\u6a21\u578b\uff1b\u4fdd\u7559\u539frevision\u4e0e\u5df2\u6709\u9884\u6d4b/\u62a5\u544a\uff0c\u540e\u7eed\u6309\u9700\u6062\u590d",
+    "evidence": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "replacement_paths": "[]",
+    "device": "2050",
+    "inode": "94507003"
+  },
+  "Qwen__Qwen3-VL-8B-Instruct": {
+    "path": "/home/user/.cache/r58_calibration/models/Qwen__Qwen3-VL-8B-Instruct/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b/model-00003-of-00004.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/Qwen__Qwen3-VL-8B-Instruct/0c351dd01ed87e9c1b53cbc748cba10e6187ff3b/model-00003-of-00004.safetensors",
+    "bytes": "4999831048",
+    "category": "published_models",
+    "action": "defer",
+    "family": "\u53ef\u91cd\u65b0\u4e0b\u8f7d\u7684\u53d1\u5e03\u6a21\u578b",
+    "reason": "\u672c\u8f6e\u4e0d\u642c\u5168\u90e8\u516c\u5f00\u6a21\u578b\uff1b\u4fdd\u7559\u539frevision\u4e0e\u5df2\u6709\u9884\u6d4b/\u62a5\u544a\uff0c\u540e\u7eed\u6309\u9700\u6062\u590d",
+    "evidence": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "replacement_paths": "[]",
+    "device": "2050",
+    "inode": "94507229"
+  },
+  "vllm-sr__d3-turbo": {
+    "path": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-turbo/9df220de4ce52ab11047156fa54b8c0313d8b0eb/model-00001-of-00011.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-turbo/9df220de4ce52ab11047156fa54b8c0313d8b0eb/model-00001-of-00011.safetensors",
+    "bytes": "4997471976",
+    "category": "published_models",
+    "action": "defer",
+    "family": "\u53ef\u91cd\u65b0\u4e0b\u8f7d\u7684\u53d1\u5e03\u6a21\u578b",
+    "reason": "\u672c\u8f6e\u4e0d\u642c\u5168\u90e8\u516c\u5f00\u6a21\u578b\uff1b\u4fdd\u7559\u539frevision\u4e0e\u5df2\u6709\u9884\u6d4b/\u62a5\u544a\uff0c\u540e\u7eed\u6309\u9700\u6062\u590d",
+    "evidence": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "replacement_paths": "[]",
+    "device": "2050",
+    "inode": "94507206"
+  },
+  "vllm-sr__d3-flash": {
+    "path": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-flash/67e03e1bc157961c582ee7c6a35d9b15fada3dec/model-00002-of-00004.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-flash/67e03e1bc157961c582ee7c6a35d9b15fada3dec/model-00002-of-00004.safetensors",
+    "bytes": "4987839568",
+    "category": "published_models",
+    "action": "defer",
+    "family": "\u53ef\u91cd\u65b0\u4e0b\u8f7d\u7684\u53d1\u5e03\u6a21\u578b",
+    "reason": "\u672c\u8f6e\u4e0d\u642c\u5168\u90e8\u516c\u5f00\u6a21\u578b\uff1b\u4fdd\u7559\u539frevision\u4e0e\u5df2\u6709\u9884\u6d4b/\u62a5\u544a\uff0c\u540e\u7eed\u6309\u9700\u6062\u590d",
+    "evidence": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "replacement_paths": "[]",
+    "device": "2050",
+    "inode": "94507068"
+  },
+  "vllm-sr__d3-mini": {
+    "path": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-mini/df99bf4ca4418bc6908ee68e9b7479af1f3b8800/model-00001-of-00002.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/vllm-sr__d3-mini/df99bf4ca4418bc6908ee68e9b7479af1f3b8800/model-00001-of-00002.safetensors",
+    "bytes": "4973332144",
+    "category": "published_models",
+    "action": "defer",
+    "family": "\u53ef\u91cd\u65b0\u4e0b\u8f7d\u7684\u53d1\u5e03\u6a21\u578b",
+    "reason": "\u672c\u8f6e\u4e0d\u642c\u5168\u90e8\u516c\u5f00\u6a21\u578b\uff1b\u4fdd\u7559\u539frevision\u4e0e\u5df2\u6709\u9884\u6d4b/\u62a5\u544a\uff0c\u540e\u7eed\u6309\u9700\u6062\u590d",
+    "evidence": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "replacement_paths": "[]",
+    "device": "2050",
+    "inode": "94507050"
+  },
+  "Qwen__Qwen3-VL-2B-Instruct": {
+    "path": "/data2/user/TTA-RMOT-assets/teacher-p1/models/Qwen3-VL-2B-Instruct/model.safetensors",
+    "first_origin": "/home/user/.cache/r58_calibration/models/Qwen__Qwen3-VL-2B-Instruct/89644892e4d85e24eaac8bacfd4f463576704203/model.safetensors",
+    "bytes": "4255140312",
+    "category": "published_models",
+    "action": "keep",
+    "family": "\u5f53\u524d\u57fa\u7840\u6a21\u578b\u4f9d\u8d56",
+    "reason": "GroundJEV/OneJev/YesTrack/U2\u5f53\u524d\u79bb\u7ebf\u8fd0\u884c\u9700\u8981\u7684\u57fa\u7840\u6a21\u578b\u548c\u914d\u5957\u6587\u4ef6",
+    "evidence": "\u5bfc\u51fa/merge\u56de\u6267\uff1blocatemot/unified/runtime/grounding_inference.py:39",
+    "replacement_paths": "[]",
+    "device": "66310",
+    "inode": "187305914"
+  }
+}

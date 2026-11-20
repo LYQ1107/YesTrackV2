@@ -1,0 +1,293 @@
+{
+  "status": "PASS",
+  "baseline_reaggregated_with_official_TrackEval": {
+    "expressions": 862,
+    "HOTA": 40.42746189241033,
+    "DetA": 31.00187974903859,
+    "AssA": 53.13506252406199,
+    "DetRe": 46.65973319860637,
+    "DetPr": 46.17596671496562,
+    "AssRe": 60.89577306692276,
+    "AssPr": 77.80467445342168,
+    "LocA": 86.73174015495881
+  },
+  "NAS_dataset_inventory": {
+    "0000": {
+      "image_files": 154,
+      "expressions": 596,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0001": {
+      "image_files": 447,
+      "expressions": 614,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0002": {
+      "image_files": 233,
+      "expressions": 449,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0003": {
+      "image_files": 144,
+      "expressions": 442,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0004": {
+      "image_files": 314,
+      "expressions": 541,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0005": {
+      "image_files": 297,
+      "expressions": 197,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0006": {
+      "image_files": 270,
+      "expressions": 618,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0007": {
+      "image_files": 800,
+      "expressions": 711,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0008": {
+      "image_files": 390,
+      "expressions": 620,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0009": {
+      "image_files": 803,
+      "expressions": 605,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0010": {
+      "image_files": 294,
+      "expressions": 572,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0011": {
+      "image_files": 373,
+      "expressions": 228,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0012": {
+      "image_files": 78,
+      "expressions": 339,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0013": {
+      "image_files": 340,
+      "expressions": 207,
+      "first_image_size": [
+        1242,
+        375
+      ]
+    },
+    "0014": {
+      "image_files": 106,
+      "expressions": 361,
+      "first_image_size": [
+        1224,
+        370
+      ]
+    },
+    "0015": {
+      "image_files": 376,
+      "expressions": 478,
+      "first_image_size": [
+        1224,
+        370
+      ]
+    },
+    "0016": {
+      "image_files": 209,
+      "expressions": 505,
+      "first_image_size": [
+        1224,
+        370
+      ]
+    },
+    "0017": {
+      "image_files": 145,
+      "expressions": 353,
+      "first_image_size": [
+        1224,
+        370
+      ]
+    },
+    "0018": {
+      "image_files": 339,
+      "expressions": 618,
+      "first_image_size": [
+        1238,
+        374
+      ]
+    },
+    "0019": {
+      "image_files": 1059,
+      "expressions": 230,
+      "first_image_size": [
+        1238,
+        374
+      ]
+    },
+    "0020": {
+      "image_files": 837,
+      "expressions": 474,
+      "first_image_size": [
+        1241,
+        376
+      ]
+    }
+  },
+  "NAS_weight_headers": {
+    "base": {
+      "path": "/data3/liuyeqiang/nas/A800/selected_checkpoints/LocateMOT_20261112/files/data2/user/TTA-RMOT-assets/teacher-p1/models/Qwen3-VL-2B-Instruct/model.safetensors",
+      "bytes": 4255140312,
+      "tensors": 625
+    },
+    "V2_LoRA": {
+      "path": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/release/yestrack/v2bestweight/adapter_model.safetensors",
+      "bytes": 34922600,
+      "tensors": 392
+    }
+  },
+  "R58_recomputed_from_raw_probabilities": [
+    {
+      "model": "Qwen/Qwen3-VL-2B-Instruct",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.02491526297571566,
+      "saved_macro_ECE": 0.02491526297571566
+    },
+    {
+      "model": "vllm-sr/d3-mini",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.062051951229768545,
+      "saved_macro_ECE": 0.062051951229768545
+    },
+    {
+      "model": "vllm-sr/d3-flash",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.058992973455473684,
+      "saved_macro_ECE": 0.058992973455473684
+    },
+    {
+      "model": "OmniJev/OneJev1.5-9B",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.060204519978391116,
+      "saved_macro_ECE": 0.060204519978391116
+    },
+    {
+      "model": "Qwen/Qwen3-VL-8B-Instruct",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.0653219194267055,
+      "saved_macro_ECE": 0.0653219194267055
+    },
+    {
+      "model": "vllm-sr/d3-turbo",
+      "requests": 12864,
+      "binary_rows": 19490,
+      "global_T_macro_ECE": 0.05493145103585712,
+      "saved_macro_ECE": 0.05493145103585712
+    }
+  ],
+  "R58_total_requests": 77184,
+  "storage_links_checked": 1756,
+  "broken_storage_links": [],
+  "environment": {
+    "python": "3.10.21 (main, Sep  1 2026, 14:16:49) [Clang 22.1.3 ]",
+    "executable": "/data3/liuyeqiang/.venvs/fgrefmot-rmot-sports-20261019/bin/python",
+    "packages": {
+      "torch": "2.6.0+cu118",
+      "torchvision": "0.21.0+cu118",
+      "transformers": "5.2.0",
+      "peft": "0.18.1",
+      "numpy": "2.2.6",
+      "scipy": "1.15.3",
+      "pandas": "2.3.3",
+      "matplotlib": "3.10.9",
+      "pillow": "12.3.0",
+      "pycocotools": "2.0.11"
+    }
+  },
+  "limitations": [
+    "R58 GPU environment is not restored; its six-model CPU cache analysis is verified.",
+    "Five public R58 model weight sets were deferred in the backup; only the Qwen2 baseline is available.",
+    "Large NAS datasets/checkpoints were inventoried and sampled, not fully rehashed."
+  ],
+  "A100_GPU_smoke": {
+    "seed": 2025,
+    "sequence": "0005",
+    "expression": "automobiles are located to the left",
+    "mot_frame": 1,
+    "image_index": 0,
+    "candidate_count": 2,
+    "probs": [
+      0.96875,
+      0.00860595703125
+    ],
+    "adapter_loaded": true,
+    "yes_no_token_ids": [
+      9454,
+      2753
+    ],
+    "seconds": 10.434854419028852,
+    "max_memory_allocated_bytes": 4436303360,
+    "weight_storage": "NAS; sequential SFTP into anonymous RAM for this check only",
+    "physical_GPU": "0",
+    "total_seconds_including_NAS_read": 411.7828489919775,
+    "local_persistent_weight_bytes": 0,
+    "archived_A800_reference_probabilities": [
+      0.96875,
+      0.00860595703125
+    ],
+    "max_probability_difference_from_A800": 0.0
+  },
+  "runtime_path_translation": "PASS: KITTI label ZIP, baseline evaluation and OneJev code resolve on A100; source and frozen plans unchanged."
+}

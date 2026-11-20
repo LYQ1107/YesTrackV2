@@ -1,0 +1,9 @@
+{
+  "status": "stopped_for_IO_recovery",
+  "problem": "Initial archived smoke passed weight materialization but blocked in FUSE page I/O for more than four minutes before returning probabilities.",
+  "process_state": "D; folio_wait_bit_common",
+  "action": "Stopped only the recovery smoke process; retry reads pinned SFTP sequentially into anonymous memfd RAM, then invokes identical official model/crop/forward code.",
+  "weights_modified": false,
+  "persistent_local_checkpoint_bytes": 0,
+  "historical_results_modified": false
+}

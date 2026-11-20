@@ -1,0 +1,85 @@
+{
+  "registered_date_asia_shanghai": "2026-11-04",
+  "seed": 2025,
+  "CPU_only": true,
+  "baseline": "R14 local gamma0.6, reuse exact original predictions and detailed TrackEval",
+  "matching": "frozen R20 Hungarian maximum IoU then IoU>=0.5; matched_gt_id>=0",
+  "variants": [
+    "GarbageOracle",
+    "SemanticOracle",
+    "Rule_fixed",
+    "Rule_LOSO",
+    "Rule_LOSO_captured_garbage_oracle"
+  ],
+  "positive_partition": {
+    "TP": "p>=.6 and y",
+    "semantic_FP": "p>=.6 and matched and not y",
+    "garbage_FP": "p>=.6 and not matched",
+    "semantic_FN": "p<.6 and y; report separately"
+  },
+  "GarbageOracle": "only set unmatched candidate scores to0; all matched scores unchanged",
+  "SemanticOracle": "on matched candidates only, flip semantic FP to0 and semantic FN to1; preserve all other scores including unmatched",
+  "combined_oracle": "reuse R20 tracker_oracle; verify composing the two interventions gives the same gamma decisions for all1850576 rows",
+  "field_audit": "all862 released files have9columns, columns7/8/9 constant1; no informative detection confidence",
+  "rule_features": [
+    "sequence-local total observed track length, offline includes future",
+    "original tracker float width*height per row"
+  ],
+  "rule_form": "keep candidate iff track_length>=L and box_area>=A; identical mask for all expressions in a sequence, no YesTrack score/GT/image feature",
+  "fixed_rule": {
+    "min_track_length": 10,
+    "min_box_area": 400
+  },
+  "LOSO": {
+    "sequences": [
+      "0005",
+      "0011",
+      "0013",
+      "0019"
+    ],
+    "fit_scalars_per_fold": 2,
+    "min_track_length_grid": [
+      1,
+      5,
+      10,
+      20,
+      40,
+      80
+    ],
+    "min_box_area_grid": [
+      0,
+      100,
+      400,
+      900,
+      1600,
+      3600
+    ],
+    "objective": "maximize official HOTA.combine_sequences over queries of the other3complete sequences",
+    "tie_break": "within1e-12 HOTA, smallerL then smallerA",
+    "evaluation_schedule": "evaluate each grid setting per video with exact per-video seqmap; never compute/use whole-val grid HOTA for parameter selection; merge heldout decisions and run full official TrackEval once",
+    "equivalent_masks": "exact expression-independent boolean-mask equality may reuse prior per-video evaluation, record every grid pair and alias; identity uses R14 per-query metrics",
+    "no_full_val_parameter_selection": true
+  },
+  "Rule_LOSO_captured_garbage_oracle": "diagnostic only: use frozen LOSO rule mask but suppress only unmatched candidates rejected by it; oracle labels used for this audit, not a deployable filter",
+  "HOTA_attribution": {
+    "primary": "garbage-first sequential: H(G)-H0; semantic residual H(both)-H(G); sums to original R20-H0 space",
+    "also_report": "independent semantic gain H(S)-H0, interaction H(both)-H(G)-H(S)+H0, two-factor symmetric Shapley allocation"
+  },
+  "recovery_fractions": {
+    "actual_rule": "(H(rule_LOSO)-H0)/(H(G)-H0), signed, no clipping",
+    "isolated_garbage_capture": "(H(captured_garbage)-H0)/(H(G)-H0)",
+    "remaining_garbage": "H(G)-H(captured_garbage); also show H(G)-H(rule_LOSO) as net gap, distinct meanings"
+  },
+  "interpretation_limit": "remaining space is not recovered by this prespecified length/area rule family; it does not prove images are mathematically necessary",
+  "evaluation": {
+    "official_code_unmodified": true,
+    "gamma": 0.6,
+    "min_area": 20,
+    "frame_offset": 0,
+    "classes": [
+      "pedestrian"
+    ],
+    "integer_R14_geometry_and_IDs_unchanged": true
+  },
+  "outputs": "analysis/runs/R56 and analysis/REPORT_R56.md; append runs.md/research_log.md only, do not alter any R00-R55 result or report"
+}

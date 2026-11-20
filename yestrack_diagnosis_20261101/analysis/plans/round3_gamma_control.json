@@ -1,0 +1,23 @@
+{
+  "registered_date_asia_shanghai": "2026-11-02",
+  "run_number": "R54",
+  "seed": 2025,
+  "authorization": "User asks for one-parameter LOSO gamma control on GT-candidate V1, comparing with sparse-observation LOSO HMM",
+  "new_variant": "V1_gamma_LOSO",
+  "source": "R50 V1 scores, native Delta10 plus video, TCP off; unchanged cached model observations",
+  "fixed_reference_gamma": 0.6,
+  "gamma_grid": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+  "LOSO": {
+    "unit": "one complete video sequence; train on the other three",
+    "fit_scalars": ["gamma"],
+    "objective": "pooled semantic micro-F1 on training three sequences, same objective as R52 LOSO HMM",
+    "tie_break": "maximum F1, then closest to fixed gamma0.6, then smaller gamma",
+    "test": "apply chosen gamma once to the held-out sequence; pool all four out-of-fold decisions; no parameter selection on pooled val",
+    "parameters_not_fit": "no calibration, HMM, transition parameter or prior; TCP remains off"
+  },
+  "evaluation": "official TrackEval gamma0.6/min-area20 on binary out-of-fold decisions; retain original V1 continuous scores and fold-specific actual gamma",
+  "comparisons": ["V1 fixed gamma0.6 HOTA68.73899479041835", "V1_gamma_LOSO", "R52 V4_D10_LOSO HOTA69.48208282158902"],
+  "interpretation": "report threshold-control gain and remaining HMM-minus-control gap, avoiding a claim of causal attribution beyond the fixed grid/LOSO objective",
+  "code_audit": "document frame/new-ID routing before TCP with exact official source lines; do not assert video depends on TCP when code shows otherwise",
+  "old_GPU_job": "R53 cancelled by user; preserve files and correct old rank0-only progress-based forecast without reusing incomplete results"
+}

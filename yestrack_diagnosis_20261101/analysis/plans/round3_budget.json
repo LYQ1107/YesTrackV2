@@ -1,0 +1,32 @@
+{
+  "registered_date_asia_shanghai": "2026-11-02",
+  "seed": 2025,
+  "authorization": "User follow-up requires three CPU checks and replaces the R51 GPU decision rule; original R49/R50 registered variants remain unchanged",
+  "run_number": "R52",
+  "reference": "relative local baseline; GT candidates; V0 HOTA65.232",
+  "variants": ["V4_D10_fixed", "V4_D10_LOSO"],
+  "source": "R17_h2/raw_scores only; R22 all-frame scores are not read for these two variants",
+  "observations": "native nonempty-frame counter modulo10 plus immediate new-ID inference; exact frame/video values and routing from R17; same object-frame observation set as V0",
+  "non_observation_frames": "transition prediction only, never a held or newly read emission; symmetric two-state transition advanced by actual image-frame gap",
+  "fixed": {"temperature": 1.0, "bias": 0.0, "p_stay": 0.95, "posterior_threshold": 0.5},
+  "LOSO": {
+    "held_out_unit": "one complete sequence among0005,0011,0013,0019",
+    "fit_scalars": ["bias", "p_stay", "posterior_threshold"],
+    "temperature": 1.0,
+    "calibration_fit": "training-only BCE over freshly observed q, not over held/repeated scores; bounded bias[-8,8], xatol1e-8",
+    "p_stay_grid": [0.5, 0.75, 0.9, 0.95, 0.98, 0.99, 0.995],
+    "posterior_threshold_grid": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+    "objective": "micro-F1 over all visible GT candidate frames of the three training sequences using sparse-observation forward filtering",
+    "tie_break": "maximum F1, then smaller stay, then threshold nearest0.5, then smaller threshold",
+    "new_ID_prior": "positive object-frame rate on the three training sequences, as in R50; prescribed statistic, not an additional adjustable scalar",
+    "refit": "refit within training folds for Delta10; do not reuse Delta1-tuned LOSO parameters or tune on full val"
+  },
+  "evaluation": "unchanged official TrackEval gamma0.6/min-area20/integer boxes; HMM writes decisions0/1; retain continuous posterior and per-sequence metrics",
+  "CPU_checks": ["original R50 observation budget table", "fixed and LOSO sparse HMM overall HOTA/DetA/AssA/DetPr/DetRe plus each sequence gain vs V0", "R49 raw/final first-crossing with censoring and V1/V2 HOTA"],
+  "GPU_policy": {
+    "if_sparse_HMM_gain_at_least2": "estimate original TempRMOT* Delta10 inference with passive trace, same method as R17; if estimate<8h user explicitly authorizes execution without asking again",
+    "if_only_dense_HMM_gain_at_least2": "do not start GPU; ask approval for previously estimated8.41h full-frame cache",
+    "inference_change": "none; only passive recording of native helper outputs, offline replay of temporal alternatives",
+    "max_project_physical_GPUs": 4
+  }
+}

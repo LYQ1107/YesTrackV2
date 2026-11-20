@@ -1,0 +1,114 @@
+{
+  "date_asia_shanghai": "2026-11-01",
+  "project_root": "/data3/liuyeqiang/YesTrackV2",
+  "task_root": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101",
+  "upstream": "analysis/upstream/YesTrack",
+  "upstream_url": "https://github.com/ggbondrighthere24/YesTrack",
+  "upstream_commit": "ed42b8315b28c94dc595d83b0d49bf57002bb281",
+  "paper_url": "https://arxiv.org/html/2609.02318v1",
+  "seed": 2025,
+  "dataset_version": "v2",
+  "train_sequences": [
+    "0000",
+    "0001",
+    "0002",
+    "0003",
+    "0004",
+    "0006",
+    "0007",
+    "0008",
+    "0009",
+    "0010",
+    "0012",
+    "0014",
+    "0015",
+    "0016",
+    "0017",
+    "0018",
+    "0020"
+  ],
+  "val_sequences": [
+    "0005",
+    "0011",
+    "0013",
+    "0019"
+  ],
+  "expression_root": "/data3/liuyeqiang/YesTrackV2/assets/data/refer_kitti_v2/expression",
+  "labels_root": "/data3/liuyeqiang/YesTrackV2/assets/data/refer_kitti_v2/labels_with_ids/image_02",
+  "image_root": "/data3/liuyeqiang/YesTrackV2/assets/data/kitti_tracking/training/image_02",
+  "base_model": "/data3/liuyeqiang/nas/A800/selected_checkpoints/LocateMOT_20261112/files/data2/user/TTA-RMOT-assets/teacher-p1/models/Qwen3-VL-2B-Instruct",
+  "candidate_environment": "/data3/liuyeqiang/.venvs/fgrefmot-rmot-sports-20261019/bin/python",
+  "official_release_url": "https://pan.baidu.com/s/1nwhcEIQshWk9TnNjhiYMrQ",
+  "official_release_code": "z5kt",
+  "local_search_roots": [
+    "/data3/liuyeqiang/YesTrackV2",
+    "/data3/liuyeqiang/nas/A800"
+  ],
+  "official_v2_adapter": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/release/yestrack/v2bestweight",
+  "temprmot_star_candidates": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/release/yestrack/v2best_track_result",
+  "yestrack_mot_candidates": null,
+  "released_v2_gt": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/release/yestrack/refer_kitti_motc_gt_v2",
+  "released_v2_seqmap": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/release/yestrack/refer_kitti_motc_gt_v2/seqmaps/val.txt",
+  "paper_protocol": {
+    "image_size": 320,
+    "margin_ratio_from_official_code": 0.2,
+    "video_n_frames": 4,
+    "re_refer_lower": 0.2,
+    "re_refer_thresh": 0.8,
+    "stability_enable": true,
+    "stability_window": 3,
+    "stability_thresh": 0.4,
+    "stability_boost": 0.3,
+    "infer_every_n_frames": 10,
+    "gamma": 0.4
+  },
+  "released_weight_note": {
+    "v2_gamma_approx": 0.6,
+    "readme_stability_window": 6,
+    "readme_infer_every_n_frames": 4
+  },
+  "paper_v2_results": {
+    "YesTrack-MOT": {
+      "HOTA": 43.75,
+      "DetA": 37.04,
+      "AssA": 52.36
+    },
+    "TempRMOT_star": {
+      "HOTA": 41.78,
+      "DetA": 32.69,
+      "AssA": 53.75,
+      "DetRe": 41.37,
+      "DetPr": 58.1,
+      "AssRe": 59.98,
+      "AssPr": 81.07,
+      "LocA": 87.17
+    }
+  },
+  "hota_stop_tolerance_points": 1.5,
+  "max_project_physical_gpus": 4,
+  "temporary_feature_cache_limit_bytes": 26843545600,
+  "allocated_gpus_for_preflight": [],
+  "reproduction_physical_gpus": [],
+  "dataset_root": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources/dataset_v2",
+  "reproduction_environment": "/data3/liuyeqiang/.venvs/fgrefmot-rmot-sports-20261019/bin/python",
+  "round2": {
+    "authorization": "2026-11-01 user second-round instructions",
+    "tracker": "TempRMOT_star_only",
+    "stop_after_paper_gap": false,
+    "all_downstream_reference": "relative_local_baseline",
+    "gamma_candidates_for_selection": [
+      0.4,
+      0.6
+    ],
+    "gamma_sensitivity_appendix_only": [
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8
+    ],
+    "gpu_stage_approval_over_hours": 8,
+    "yestrack_mot_abandoned": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "registered_date_asia_shanghai": "2026-11-02",
+  "seed": 2025,
+  "status": "frozen_before_R49_R50_results",
+  "reference": "相对本地基线；GT candidates；V0=H2",
+  "sequences": ["0005", "0011", "0013", "0019"],
+  "gamma": 0.6,
+  "routing": {"lower_inclusive": 0.2, "upper_exclusive": 0.8},
+  "emission_definition": "q is the unboosted video probability when raw frame p is in [0.2,0.8), otherwise raw frame p; no new inference",
+  "native_gate": {
+    "expressions": 862,
+    "candidate_rows": 2860484,
+    "serialization": "float(f'{p:.6f}'), the R36/native Python formatting rule",
+    "maximum_absolute_difference_tolerance": 1e-12,
+    "required_summary_HOTA": 65.232,
+    "on_mismatch": "STOP; do not run R49/R50 or adjust protocol"
+  },
+  "variants": {
+    "V0": {"delta": 10, "TCP": "final-history", "window": 3, "history_threshold": 0.4, "boost": 0.3},
+    "V1": {"delta": 10, "TCP": "off"},
+    "V2": {
+      "delta": 10,
+      "TCP": "raw-history",
+      "window": 3,
+      "history_threshold": 0.4,
+      "boost": 0.3,
+      "raw_history": "last freshly verified unboosted q, held between TRP calls; history appends this raw stream, while TCP base input and last-final TRP cache remain native"
+    },
+    "V3": {"delta": 1, "TCP": "off"},
+    "V4_fixed": {"family": "calibrated_HMM", "temperature": 1.0, "bias": 0.0, "p_stay": 0.95, "posterior_threshold": 0.5, "fit": false},
+    "V4_LOSO": {"family": "calibrated_HMM", "temperature": 1.0, "fit_scalars": ["bias", "p_stay", "posterior_threshold"]},
+    "V5_fixed": {"family": "uncalibrated_HMM", "temperature": 1.0, "bias": 0.0, "p_stay": 0.95, "posterior_threshold": 0.5, "fit": false, "identical_to": "V4_fixed"},
+    "V5_LOSO": {"family": "uncalibrated_HMM", "temperature": 1.0, "bias": 0.0, "fit_scalars": ["p_stay", "posterior_threshold"]}
+  },
+  "LOSO": {
+    "held_out_unit": "whole video sequence, all its expressions and objects",
+    "emission_clip_epsilon": 0.000001,
+    "temperature": 1.0,
+    "calibration": "intercept-only logistic calibration: sigmoid(logit(q)+bias); minimize training-only object-frame BCE with scipy bounded scalar minimization, bounds [-8,8], xatol=1e-8",
+    "p_stay_grid": [0.5, 0.75, 0.9, 0.95, 0.98, 0.99, 0.995],
+    "posterior_threshold_grid": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+    "selection_objective": "pooled semantic micro-F1 on the three training sequences only, after fitting bias for V4",
+    "tie_break": "maximum F1, then smaller p_stay, then threshold closest to 0.5, then smaller threshold",
+    "new_ID_prior": "empirical object-frame positive rate of the three training sequences; a user-prescribed statistic, not an additional tunable scalar",
+    "fixed_version_prior": "same training-only positive-rate prior for each held-out sequence, with all hyperparameters fixed",
+    "HMM": "causal two-state forward filter on every visible candidate frame; symmetric stay probability; across a gap of g image frames prior=0.5+(last_posterior-0.5)*(2*p_stay-1)^g; new ID starts at training prior; emission likelihoods are q_cal and 1-q_cal",
+    "evaluation": "pool all four held-out predictions, then official TrackEval HOTA.combine_sequences; never tune on the pooled validation results",
+    "HMM_output": "retain continuous posterior separately; write 0/1 decisions at its registered/fitted posterior threshold to official predictions, evaluated with unchanged --thresholds 0.6",
+    "negative_retention_r": "unknown; no prior correction inferred from a training-code default"
+  },
+  "R49": {
+    "events": "all F-class gap=1 true-to-false GT switches; event frame is the first false frame, 1-based MOT time",
+    "offsets": [0, 15],
+    "visibility": "only actual visible GT candidate rows; no interpolation across invisibility; windows can overlap and are event-weighted",
+    "curves": ["R22 per-frame raw p_frame", "R22 p_video conditional on original routing, with coverage counts", "R22 unboosted routed q", "native Delta10 final score", "native TCP Delta1 replay final score"],
+    "latency": "first observed score below 0.6 at offsets 0..15; unseen/missing follow-up is censored, not treated as rejection; report observed crossing distribution and restricted/censored counts separately",
+    "paired_latency": "final-first-crossing minus raw-frame-first-crossing only for events with both observed; also report events still final-positive through last visible follow-up after raw drops",
+    "latch": "from first raw-frame p<0.6 until first final score<0.6, capped at offset15; count visible rows only, including raw rebounds; report fraction raw p in [0.1,0.6), plus fraction routed q<0.6",
+    "delta1": "official TCP unchanged, all-frame R22 cache, no TRP skipping",
+    "interpretation": "separate video changes from TCP using routed q and R50 V1/V2 controls; do not impute uncached video probabilities"
+  },
+  "metrics": {
+    "HOTA": "unmodified official TrackEval, min-area20, offset0, all objects mapped to pedestrian as before, integer output boxes",
+    "semantic": "micro P/R/F1 over all GT candidate object-frames, gamma0.6 except HMM registered posterior decisions",
+    "empty_frame_false_alarm_rate": "expression-image-frame with empty released GT and any predicted matching candidate / all empty released-GT expression-image-frames, including frames without any candidate",
+    "post_switch_error": "event-weighted visible rows at F gap1 true-to-false offsets0..5, error vs actual current GT, including subsequent switches if any",
+    "category_delta_HOTA": "A-H subset HOTA(variant)-subset HOTA(V0), using native sequence recombination; multi-label classes overlap; G=0 is N/A",
+    "oracle_space_denominator": 32.488,
+    "oracle_space_recovered": "(variant HOTA - V0 HOTA) / 32.488"
+  },
+  "R51": {
+    "trigger": "best fixed or out-of-fold LOSO variant has HOTA gain >=2 over V0",
+    "on_trigger": "CPU-only estimate for all-frame/frame-video TempRMOT* cache using R22 throughput; require explicit new user approval before any GPU launch",
+    "otherwise": "write conclusion; do not run GPU stage"
+  }
+}

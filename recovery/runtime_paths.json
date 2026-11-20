@@ -1,0 +1,8 @@
+{
+  "/data2/user/LocateMOT_GroundJEV": "/data3/liuyeqiang/YesTrackV2",
+  "/data2/user/LocateMOT/data": "/data3/liuyeqiang/YesTrackV2/assets/data",
+  "/data2/user/TTA-RMOT-assets/teacher-p1/models/Qwen3-VL-2B-Instruct": "/data3/liuyeqiang/nas/A800/selected_checkpoints/LocateMOT_20261112/files/data2/user/TTA-RMOT-assets/teacher-p1/models/Qwen3-VL-2B-Instruct",
+  "/data2/user/nas/A800": "/data3/liuyeqiang/nas/A800",
+  "/home/user/.cache/r58_calibration": "/data3/liuyeqiang/nas/A100/YesTrackV2_runtime/r58_calibration",
+  "/data2/user/reference_envs/kitti_tracking_labels_20261001/data_tracking_label_2.zip": "/data3/liuyeqiang/YesTrackV2/assets/kitti_tracking_labels.zip"
+}

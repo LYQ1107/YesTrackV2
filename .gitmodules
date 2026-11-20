@@ -1,0 +1,6 @@
+[submodule "YesTrack"]
+	path = yestrack_diagnosis_20261101/analysis/upstream/YesTrack
+	url = https://github.com/ggbondrighthere24/YesTrack.git
+[submodule "OneJev"]
+	path = external/OneJev
+	url = https://github.com/OmniJev/OneJev.git

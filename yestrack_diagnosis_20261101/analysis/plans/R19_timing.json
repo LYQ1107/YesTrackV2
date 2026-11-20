@@ -1,0 +1,182 @@
+{
+  "seed": 2025,
+  "tasks": [
+    {
+      "name": "0005__opposite-direction-autos-in-red",
+      "frames": [
+        23,
+        93,
+        108,
+        112,
+        133,
+        143,
+        183,
+        189,
+        201,
+        220,
+        235,
+        240,
+        270,
+        271,
+        282,
+        285
+      ],
+      "candidate_rows": 76
+    },
+    {
+      "name": "0005__white-cars-are-moving-in-the-direction-of-the-ego-car",
+      "frames": [
+        17,
+        33,
+        34,
+        40,
+        42,
+        60,
+        61,
+        83,
+        140,
+        143,
+        168,
+        169,
+        174,
+        178,
+        249,
+        262
+      ],
+      "candidate_rows": 68
+    },
+    {
+      "name": "0011__cars-that-came-to-a-stop",
+      "frames": [
+        24,
+        41,
+        103,
+        113,
+        127,
+        137,
+        170,
+        171,
+        179,
+        209,
+        228,
+        277,
+        289,
+        311,
+        313,
+        350
+      ],
+      "candidate_rows": 162
+    },
+    {
+      "name": "0011__those-individuals",
+      "frames": [
+        2,
+        17,
+        82,
+        90,
+        118,
+        121,
+        159,
+        173,
+        240,
+        242,
+        263,
+        279,
+        321,
+        326,
+        348,
+        361
+      ],
+      "candidate_rows": 146
+    },
+    {
+      "name": "0013__females-on-the-right",
+      "frames": [
+        16,
+        23,
+        28,
+        42,
+        45,
+        70,
+        99,
+        122,
+        125,
+        238,
+        244,
+        248,
+        288,
+        293,
+        314,
+        333
+      ],
+      "candidate_rows": 61
+    },
+    {
+      "name": "0013__persons-on-the-right",
+      "frames": [
+        14,
+        49,
+        66,
+        74,
+        89,
+        229,
+        241,
+        259,
+        277,
+        279,
+        281,
+        300,
+        311,
+        318,
+        324,
+        339
+      ],
+      "candidate_rows": 68
+    },
+    {
+      "name": "0019__over-on-the-right-side,-one-can-spot-people-in-t-shirts",
+      "frames": [
+        25,
+        71,
+        108,
+        140,
+        251,
+        257,
+        282,
+        347,
+        430,
+        521,
+        606,
+        690,
+        693,
+        848,
+        921,
+        935
+      ],
+      "candidate_rows": 115
+    },
+    {
+      "name": "0019__people-donning-coats-and-jeans",
+      "frames": [
+        69,
+        101,
+        190,
+        273,
+        310,
+        334,
+        373,
+        481,
+        539,
+        586,
+        656,
+        703,
+        710,
+        760,
+        786,
+        841
+      ],
+      "candidate_rows": 131
+    }
+  ],
+  "scope": "128 real frames, eight expressions, all four sequences; frame + selective video, same per-frame batching as official."
+}

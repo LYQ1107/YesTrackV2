@@ -1,0 +1,28 @@
+{
+  "seed": 2025,
+  "sequence": "0005",
+  "expression": "automobiles are located to the left",
+  "mot_frame": 1,
+  "image_index": 0,
+  "candidate_count": 2,
+  "probs": [
+    0.96875,
+    0.00860595703125
+  ],
+  "adapter_loaded": true,
+  "yes_no_token_ids": [
+    9454,
+    2753
+  ],
+  "seconds": 10.434854419028852,
+  "max_memory_allocated_bytes": 4436303360,
+  "weight_storage": "NAS; sequential SFTP into anonymous RAM for this check only",
+  "physical_GPU": "0",
+  "total_seconds_including_NAS_read": 411.7828489919775,
+  "local_persistent_weight_bytes": 0,
+  "archived_A800_reference_probabilities": [
+    0.96875,
+    0.00860595703125
+  ],
+  "max_probability_difference_from_A800": 0.0
+}

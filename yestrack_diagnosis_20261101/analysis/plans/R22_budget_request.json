@@ -1,0 +1,18 @@
+{
+  "seed": 2025,
+  "scope": "All 862 V2 val expressions, all 2860484 GT object-frames; frame and selective video scores",
+  "point_estimate_hours_four_gpus": 11.490898349365363,
+  "conservative_range_hours": [
+    11.5,
+    16
+  ],
+  "status": "user_approved_full_stage",
+  "command_after_approval": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/.venv-yestrack/bin/python -u analysis/run_score_cache.py --plan analysis/plans/calibration_full.json --out analysis/runs/R22_full_scores --gpus 3,4,5,6 --run-number 22 --estimated-hours 13 --video --over8-authorized",
+  "depends_on": "R17 releases GPU3,4; current GPU resource check before launch",
+  "covers": [
+    "full frame reliability and ECE",
+    "gamma/refine interval replay",
+    "F class delta1/5/10/20 exact causal replay"
+  ],
+  "user_reply": "批准全量运行（推荐，完成全部校准和 TRP 扫描）"
+}

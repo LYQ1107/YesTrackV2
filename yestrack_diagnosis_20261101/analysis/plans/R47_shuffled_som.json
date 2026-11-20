@@ -1,0 +1,12 @@
+{
+  "seed": 2025,
+  "reference_plan": "analysis/plans/som.json",
+  "expression_frames": 1704,
+  "estimated_gpu_hours": 2,
+  "physical_gpus": [
+    6
+  ],
+  "permutation_seed": "2025+100000*int(sequence)+frame",
+  "scope": "same frozen inputs; labels and crop probabilities permuted by GT ID",
+  "purpose": "Resolve observed always-first ordering confound, without reselecting samples or tuning gamma."
+}

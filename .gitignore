@@ -1,0 +1,48 @@
+# NAS payloads and local environments are rebuilt by recovery/configure_storage.py.
+/assets/
+**/.venv*/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+*.pem
+*.key
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
+*.log
+
+# Private conversation and the broader, unrelated GroundJEV journal stay local.
+/recovery/ORIGINAL_CONVERSATION.md
+/recovery/AGENTS.a800.md
+/research_log.md
+
+# Publish analysis code, frozen plans, compact annotations and research reports.
+# Runtime runs/resources/errors contain NAS views; discovery/download artifacts
+# are local bookkeeping. Add a new source type here when it needs versioning.
+/yestrack_diagnosis_20261101/analysis/*
+!/yestrack_diagnosis_20261101/analysis/*.py
+!/yestrack_diagnosis_20261101/analysis/*.sh
+!/yestrack_diagnosis_20261101/analysis/REPORT*.md
+!/yestrack_diagnosis_20261101/analysis/PLAN.md
+!/yestrack_diagnosis_20261101/analysis/error_patterns.md
+!/yestrack_diagnosis_20261101/analysis/research_log.md
+!/yestrack_diagnosis_20261101/analysis/runs.md
+!/yestrack_diagnosis_20261101/analysis/config.json
+!/yestrack_diagnosis_20261101/analysis/local_baseline.json
+!/yestrack_diagnosis_20261101/analysis/requirements-yestrack.txt
+!/yestrack_diagnosis_20261101/analysis/environment.lock.txt
+!/yestrack_diagnosis_20261101/analysis/label_audit.csv
+!/yestrack_diagnosis_20261101/analysis/upstream/
+!/yestrack_diagnosis_20261101/analysis/plans/
+!/yestrack_diagnosis_20261101/analysis/labels/

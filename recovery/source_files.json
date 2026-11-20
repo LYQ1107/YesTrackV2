@@ -1,0 +1,2576 @@
+[
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/HEAD",
+    "bytes": 21,
+    "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/config",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/config",
+    "bytes": 264,
+    "sha256": "2111136e6430487a7959fd61cfd69c4914442b9f63b73c12672bf5a9b2284215"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/description",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/description",
+    "bytes": 73,
+    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/applypatch-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/applypatch-msg.sample",
+    "bytes": 478,
+    "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/commit-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/commit-msg.sample",
+    "bytes": 896,
+    "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/fsmonitor-watchman.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/fsmonitor-watchman.sample",
+    "bytes": 4655,
+    "sha256": "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/post-update.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/post-update.sample",
+    "bytes": 189,
+    "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-applypatch.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-applypatch.sample",
+    "bytes": 424,
+    "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-commit.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-commit.sample",
+    "bytes": 1643,
+    "sha256": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-merge-commit.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-merge-commit.sample",
+    "bytes": 416,
+    "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-push.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-push.sample",
+    "bytes": 1374,
+    "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-rebase.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-rebase.sample",
+    "bytes": 4898,
+    "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/pre-receive.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/pre-receive.sample",
+    "bytes": 544,
+    "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/prepare-commit-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1492,
+    "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/push-to-checkout.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/push-to-checkout.sample",
+    "bytes": 2783,
+    "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/hooks/update.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/hooks/update.sample",
+    "bytes": 3650,
+    "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/index",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/index",
+    "bytes": 6612,
+    "sha256": "2aa538f6a0b1e4fbe9ae7718f9b0cc428b546ac70a4756139f8887615da41e7d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/info/exclude",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/info/exclude",
+    "bytes": 240,
+    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/logs/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/logs/HEAD",
+    "bytes": 196,
+    "sha256": "3af49185169217c579d4470cf5688c28e183d5ebdababb1871136d4bbe3b50f6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/logs/refs/heads/main",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/logs/refs/heads/main",
+    "bytes": 196,
+    "sha256": "3af49185169217c579d4470cf5688c28e183d5ebdababb1871136d4bbe3b50f6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/logs/refs/remotes/origin/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/logs/refs/remotes/origin/HEAD",
+    "bytes": 196,
+    "sha256": "3af49185169217c579d4470cf5688c28e183d5ebdababb1871136d4bbe3b50f6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/objects/pack/pack-b8f5b3a11fcffbe175e8a8f4e8aedd4af7fe758e.idx",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/objects/pack/pack-b8f5b3a11fcffbe175e8a8f4e8aedd4af7fe758e.idx",
+    "bytes": 3480,
+    "sha256": "676724428d7e29986f7c074b07d7aea8efade66218cd0ff3bf4cf108dff9baf1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/objects/pack/pack-b8f5b3a11fcffbe175e8a8f4e8aedd4af7fe758e.pack",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/objects/pack/pack-b8f5b3a11fcffbe175e8a8f4e8aedd4af7fe758e.pack",
+    "bytes": 995481,
+    "sha256": "17fae7aac3432e4471f88119bb0075355972b28b79a66566bcc208aa1dfa8333"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/packed-refs",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/packed-refs",
+    "bytes": 112,
+    "sha256": "ec29359538b1a828d262ad7bafed893550066be30a4bd1614df7f0e44f2313d9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/refs/heads/main",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/refs/heads/main",
+    "bytes": 41,
+    "sha256": "558c05c588968ad0a7974623f65fb91353a03ec383d727d3511b3d4d03bbf7ab"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/refs/remotes/origin/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/refs/remotes/origin/HEAD",
+    "bytes": 30,
+    "sha256": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.git/shallow",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.git/shallow",
+    "bytes": 41,
+    "sha256": "558c05c588968ad0a7974623f65fb91353a03ec383d727d3511b3d4d03bbf7ab"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.github/stats.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.github/stats.py",
+    "bytes": 9481,
+    "sha256": "d56e8253d9eafc47e79b72e56ff3f525bf138ed3ad1a07faa4b765a8bfd3290e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.github/workflows/stats.yml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.github/workflows/stats.yml",
+    "bytes": 655,
+    "sha256": "6a434a89bb098d6c92caca2d15b6c4f2e33791572c9e92a571e0abe6cf51528a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/.gitignore",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/.gitignore",
+    "bytes": 62,
+    "sha256": "20a499b322e7378bf8950927dbd56a0191e227d7519ee63a3a8b699fe8c32481"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/LICENSE",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/LICENSE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/README.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/README.md",
+    "bytes": 8864,
+    "sha256": "0696aa502eda0a1663f3d20ab83a3913f1be53ca3d92ced3c858fd3842007a46"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/README_ja.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/README_ja.md",
+    "bytes": 9987,
+    "sha256": "1ce2a8abfac09fb9e1ff0fb4257fc3ba607052bea6578426d02953e0693aec16"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/README_zh.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/README_zh.md",
+    "bytes": 8959,
+    "sha256": "fc9b65aab771384e47ed613954fae6cc1aba83bffd0720f40d7fb6b08c31370d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/banner-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/banner-dark.svg",
+    "bytes": 484261,
+    "sha256": "f3fa092f5fab2c163396c7a334c1f6574a1d2382b2a2fa6401eb700a7ae179c2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/banner.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/banner.svg",
+    "bytes": 484261,
+    "sha256": "99d86065f56b1931bf69d9d387f372c16685a3ddfa7fe575d44b1d1d149f4e10"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/downloads.csv",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/downloads.csv",
+    "bytes": 17754,
+    "sha256": "965559bebd878dc613b3902ae47ed9653e6f86b4c5feed7f7057b13010d04bad"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/downloads.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/downloads.svg",
+    "bytes": 62410,
+    "sha256": "e3f3d54e1eaf6685d99f14422637e7a918c4d3a3593e04ae13fcdcc545b2ab4b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/banner-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/banner-dark.svg",
+    "bytes": 499154,
+    "sha256": "600a83b70322cfd1bfe9fd44db560841632ea9588403e76abcdffc387da8b1ae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/banner.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/banner.svg",
+    "bytes": 499154,
+    "sha256": "944f38d4fa305bbe946dc88830d860f0cb9b3c8818645d5bee83aa1e0ba0f78e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/results-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/results-dark.svg",
+    "bytes": 1263216,
+    "sha256": "a3c83db0860c85c30c534a4121846dd7f541932725ef44ae46d8e98897e3f800"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/results.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/results.svg",
+    "bytes": 1263216,
+    "sha256": "426e52972fb83bac24139c6e3738b0224480c060c5708b14f273dc4936887858"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/speed-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/speed-dark.svg",
+    "bytes": 726228,
+    "sha256": "d7fdad92687af8abd1f2adf2ad69b5f5b2e03aa5b2f8b052a74f83a9871646ac"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/speed.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/speed.svg",
+    "bytes": 726228,
+    "sha256": "ccba4a56507033780f2a61d4c98c8613fb395ecf6af9c4449cf260216109d9ca"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/table-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/table-dark.svg",
+    "bytes": 894302,
+    "sha256": "d8a460a1ffdeab82924a56a854159e51768989a1011b940c23bcaeefb5ebdfd4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/ja/table.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/ja/table.svg",
+    "bytes": 894302,
+    "sha256": "5cc7728ec9f58b1467254ad1e5730b7afb83d83e44ed9c22ec8352cc3fd18937"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/results-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/results-dark.svg",
+    "bytes": 1257336,
+    "sha256": "c359e24ddedfb570aad37055a8c000b911e3e7202c35644e091e6d0337270e4c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/results.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/results.svg",
+    "bytes": 1257336,
+    "sha256": "b623a9e40a45879d326582d73e87a2d7772d0f293ebdd2cdbf9e2ef24242bfda"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/speed-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/speed-dark.svg",
+    "bytes": 717343,
+    "sha256": "b65ba119822f350315534aff393a456b92cbed54cc73b6a71cddc5986705eb8b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/speed.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/speed.svg",
+    "bytes": 717343,
+    "sha256": "a00c08b71da92ffff061527ee5a901825e2387a43f2bae26ddc2751d7dcf9a55"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/table-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/table-dark.svg",
+    "bytes": 882731,
+    "sha256": "bd063f40f32d6a797979387c15a1519108ca55d7787b31c7ce4b25a744930164"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/table.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/table.svg",
+    "bytes": 882731,
+    "sha256": "f6b5a6800013282cc969346dd37ea37aff16f3f2d073fc2b94f695d5244937b2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/banner-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/banner-dark.svg",
+    "bytes": 499243,
+    "sha256": "7baba73216a674a81a7a9c79255afcf1a0a2f4754109a50e588c1c0e273e2b87"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/banner.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/banner.svg",
+    "bytes": 499243,
+    "sha256": "c2403e032b0ef7a8a92b9a89a20726104db7bf46691ee351123213d2ca62f7ce"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/results-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/results-dark.svg",
+    "bytes": 1265856,
+    "sha256": "87971ccaa05d68ea9d6f070a3c8291decf42ff8dfac722c0793a16ff85568696"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/results.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/results.svg",
+    "bytes": 1265856,
+    "sha256": "ee769b8a9c6e3969632b0c2d8d22865465fd4837684c6626d1a9ebbb669f7207"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/speed-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/speed-dark.svg",
+    "bytes": 724131,
+    "sha256": "4d1b02b8f07114e9b78d35d4e7adc651d52ccea8e003828ee7daf65a9381a59b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/speed.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/speed.svg",
+    "bytes": 724131,
+    "sha256": "d6085316151e4654c8b997db3e12a718bb6c5aa508b0f3dac20c48e2cfc7ad4f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/table-dark.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/table-dark.svg",
+    "bytes": 899789,
+    "sha256": "15e9978b43aa525cc0e88c7998e365e0fa781f3640b4d248b61716f4e35e2ed7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/assets/zh/table.svg",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/assets/zh/table.svg",
+    "bytes": 899789,
+    "sha256": "e96c479e84e6905f4a70e4027e60f4cede1c048a12ba0190d7af0b704d737f5c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/benchmarks/decision_index_engine.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/benchmarks/decision_index_engine.py",
+    "bytes": 4124,
+    "sha256": "080c1b5419a36bd59968f414b479f6f8006c92a3fc34e4cf6674d07ff6c6018d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/benchmarks/decision_index_vision_engine.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/benchmarks/decision_index_vision_engine.py",
+    "bytes": 4730,
+    "sha256": "606609e62c7292e5bbe524da8ac9d135edb491b01e19f8d0c319a7e6df45a610"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/.env.example",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/.env.example",
+    "bytes": 1473,
+    "sha256": "c61fc264156d15cb5318d790abeb89eed605e4eb68196a9e9bb03c38fb999c80"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/Dockerfile",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/Dockerfile",
+    "bytes": 2442,
+    "sha256": "0e926cf047372b5ad3750ebd48d2442db350c40427cab448058a049c236e4e5a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/Dockerfile.dockerignore",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/Dockerfile.dockerignore",
+    "bytes": 49,
+    "sha256": "c6254db503e512d5a0b3c1f7907b62b314bb890807bfc42db0f026a0d90b7741"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/compose.yml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/compose.yml",
+    "bytes": 4630,
+    "sha256": "f83ce6d9c0792a9ac1da427d2226efa4b3e8b10839d2eeb180d43a4de24ff275"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/start.ps1",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/start.ps1",
+    "bytes": 3091,
+    "sha256": "d8403fbf79a7c6bcb7dc5d6449c243442a365feb941651018d96dde011cdc564"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/docker/start.sh",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/docker/start.sh",
+    "bytes": 4314,
+    "sha256": "cc943e0804cac4cfd94c50d61bedb3e8a8724d190da990c91ddfc5053abf4455"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/examples/curl.sh",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/examples/curl.sh",
+    "bytes": 205,
+    "sha256": "305adceebbff7abdad397b60c25c25ce5796365bbf65568624d9457e05e0b82c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/examples/official_sdk.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/examples/official_sdk.py",
+    "bytes": 1059,
+    "sha256": "893ad766c488f40303777d1b8aa1d8016db177eda3945602dcaf12b8411bbf91"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/examples/request.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/examples/request.json",
+    "bytes": 732,
+    "sha256": "f771b95d942834f7a622ce83b009f13aec815ed9be177c5ccba2f2171b4dd1ac"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/examples/video.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/examples/video.py",
+    "bytes": 1293,
+    "sha256": "f93c1be349a41303f4d2182fd9c7b1d1fe747238b33870fe5c78d9de4c81113e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/pyproject.toml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/pyproject.toml",
+    "bytes": 842,
+    "sha256": "7d9ff322c36bf6c5d58734063972c4719e832c22b5ba64156f67a527cfd95d1f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/PKG-INFO",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/PKG-INFO",
+    "bytes": 9880,
+    "sha256": "c0018be0a6d7a3bc8cf0fd0f05909445aa388129d5a198bc6a5f1ac59b4535f7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/SOURCES.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/SOURCES.txt",
+    "bytes": 408,
+    "sha256": "cb8b887a9572ac688efe8f3b62862ae3adc2a2c60b0e0c09ccf37ca8d4848a2b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/dependency_links.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/dependency_links.txt",
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/entry_points.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/entry_points.txt",
+    "bytes": 37,
+    "sha256": "9eed2d083d3ef6c45c9450a5b9d7469323eed64673628e5ed551af44ffa7a848"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/requires.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/requires.txt",
+    "bytes": 259,
+    "sha256": "67daa9258034f59c3857e67e32eda9e7e0527a0ce0d471e3c13014abe2e311c0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev.egg-info/top_level.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev.egg-info/top_level.txt",
+    "bytes": 4,
+    "sha256": "570b55f85180d884c97b83dd3d2a4258ae5cea1e9de95625d439df56b1f65d31"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/__init__.py",
+    "bytes": 145,
+    "sha256": "6e959af9105d811fc1133ef6ef1d06575c366e8b4e31f1ea5949568ca32436d0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/answers.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/answers.py",
+    "bytes": 2542,
+    "sha256": "09b06dba258c80a6a9afdaa5aacfd0f7523f9d2a087a7b6402ca03553ea6fba6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/calibrate.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/calibrate.py",
+    "bytes": 4245,
+    "sha256": "3fa6013a81c7e79a702afcdcc0ebd089bee7047590c18cc44708850f5aeda1ee"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/cli.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/cli.py",
+    "bytes": 10152,
+    "sha256": "232f7add233defcbdcab052eaaa691dd03f1c2f0e1aa957b256d6abab83802fb"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/client.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/client.py",
+    "bytes": 4417,
+    "sha256": "560ca00f7ecffee72e6490afdd69a34cf4f55a6e1765a0493d4beebf8b6b4278"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/engine.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/engine.py",
+    "bytes": 22720,
+    "sha256": "f9665c68714818dbea8edc1e80d0b0d86737537dd606ff53cff37aafb84d6bf4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/fp8.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/fp8.py",
+    "bytes": 5996,
+    "sha256": "e666635147127479dbb81f45c469a13b090789ff39e60a72877f2b6d0e278de9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/llamacpp.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/llamacpp.py",
+    "bytes": 14574,
+    "sha256": "7982b807f1cefd6234d260e7eaeae5bfdd5e804417251f0325adf901e14389d9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/media.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/media.py",
+    "bytes": 6676,
+    "sha256": "1f6ec71b03a42f7f48461260580d8aacc1fa6ff64a3c684cb23bb1d5d13aa8c0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/mm_engine.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/mm_engine.py",
+    "bytes": 38656,
+    "sha256": "2b03b290ee9328caa5e23bea8d92b6dbd8fff61152305bbe0e445ad4d1e7a132"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/playground/index.html",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/playground/index.html",
+    "bytes": 6483,
+    "sha256": "755f22452a12e56ce33af0bc28417539cc06f6838737a46902a1b2ed6fb9c461"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/prompt.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/prompt.py",
+    "bytes": 6421,
+    "sha256": "17dfae09e4dff47cb8ce80e172eba116f188b82b70c2777bd14fd9b8a71680de"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/schema.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/schema.py",
+    "bytes": 3050,
+    "sha256": "bce4b7d353ac115a9e50aef284975ddeed9a3bb452e3fd928a556668705bc2f3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/qev/server.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/qev/server.py",
+    "bytes": 3954,
+    "sha256": "51ddaafebc677286aebff370ee0740baef9f902778b32bb8da1b061ffa964dd2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/__init__.py",
+    "bytes": 100,
+    "sha256": "98fe595a6854c02e6a57074d5b2e231627a0d324df207c0d70ffa9a832ea1867"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/common.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/common.py",
+    "bytes": 25460,
+    "sha256": "fa15871397c4ced330be750f6d1a26ab54edaa3c0b5ffa0a82b79beb8641a3a2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/configs/onejev_08b_full.yaml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/configs/onejev_08b_full.yaml",
+    "bytes": 415,
+    "sha256": "e9aa855c3d16fd40602010728a516b12010d758409180235fcdd9fed7b6df35c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/configs/onejev_27b_full.yaml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/configs/onejev_27b_full.yaml",
+    "bytes": 425,
+    "sha256": "3a5d2c5d378f6d59a734a89eafad66921adeb6c33747f37dc9e3a6bd205ba23a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/configs/onejev_4b_full.yaml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/configs/onejev_4b_full.yaml",
+    "bytes": 396,
+    "sha256": "65d38b11eb8ec8bc0c408b85c5277ae0072f1b88544b54de516524fcfdc4b375"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/configs/onejev_9b_full.yaml",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/configs/onejev_9b_full.yaml",
+    "bytes": 423,
+    "sha256": "d1b00acd9d31da3f8c1baa8e0530ed0e1c2334f12312545879bd8e9a8ff09d96"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/eval_mm.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/eval_mm.py",
+    "bytes": 5047,
+    "sha256": "91997a3498691e55b231d0fb3c1cb7080b96cc5b236ceb4ad7340828b9a2865e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/fsdp.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/fsdp.py",
+    "bytes": 7605,
+    "sha256": "cd07b861b3e275e2c2cb508e046448b6169482713d57da53729fa6b6fb7bd4d7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/mm.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/mm.py",
+    "bytes": 7595,
+    "sha256": "7c4d015970bba3f676b982aa140c2c0c5e209bd7bfdd6761f0f982b95a2bd09d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/sft.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/sft.py",
+    "bytes": 47512,
+    "sha256": "078967fca9a5f57afec662b0f92a273e743a3940cb5c3ec3980ab6797f0f957a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/shared.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/shared.py",
+    "bytes": 6614,
+    "sha256": "469160b06e80027ae4d402ad78ca32fca8e7b75eb5a30907178f6de91f7ead8f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/external/OneJev/train/unpack.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/external/OneJev/train/unpack.py",
+    "bytes": 2043,
+    "sha256": "af5fce5f63f86958b15a03234be453c4e2ab90695e05564bfd90a352bc170ff3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/MOT_RESOURCE_SEARCH.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/MOT_RESOURCE_SEARCH.md",
+    "bytes": 4194,
+    "sha256": "a3e20d0fe88b6d7a1525bb008b86aa0bdf8cf6c54987c82f18507c2d42f8e2c5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/PLAN.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/PLAN.md",
+    "bytes": 4790,
+    "sha256": "36ee6acf9e4fff2bb9f653f822cce15030f64428ed1afa3619f2a256981a154c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT.md",
+    "bytes": 30206,
+    "sha256": "17780a250ace069a15020b0be9968208fdabcc97ec897a2b52df8c4a53639728"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_R56.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_R56.md",
+    "bytes": 5897,
+    "sha256": "c1b106835a8e159f8890b3e28f76a19924ae9f4009ba2994cb8ee5c54297471a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_R58.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_R58.md",
+    "bytes": 81789,
+    "sha256": "b515740f7b1f351c49176898d56d84e68a4917b127341ad76e732eb6c2ee2975"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_round3.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_round3.md",
+    "bytes": 27723,
+    "sha256": "c6af705d064ec2e35bff0a767b88acc66c278f09d29bbe280aeed933b33ca624"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_round3_GPU_status.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_round3_GPU_status.md",
+    "bytes": 1114,
+    "sha256": "0418fda2d9ce182a49e36e60cee0930000a8d9b7c1ef0459e485a8a3211cf774"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_round3_actual_notcp.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_round3_actual_notcp.md",
+    "bytes": 5205,
+    "sha256": "e5f10d499fd5c1c5c33590f7e769bc3c15eb8ed49f084a3af9db9d5d07c7eaf1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_round3_budget.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_round3_budget.md",
+    "bytes": 5227,
+    "sha256": "febdd8a521a37e441df1de7b8fcd5b3f18040abfa8a2e6379e041180a3f2fee9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/REPORT_round3_gamma_control.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/REPORT_round3_gamma_control.md",
+    "bytes": 4462,
+    "sha256": "8cad3e47f49895b20e556b646de7de74ab501a5d7c79521d1556a3ad23d09930"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/actual_temporal_replay.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/actual_temporal_replay.py",
+    "bytes": 16463,
+    "sha256": "e7e74ccfdb038e305ec6d65c4eb4658a0620e70227470c6e18824f15b7c9a354"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/actual_trace_budget_control.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/actual_trace_budget_control.py",
+    "bytes": 3766,
+    "sha256": "00891c6e356d33fc1d8f777c99d2b31baf87d54baf0d2c13a27c48dde872ac84"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/analyze_context.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/analyze_context.py",
+    "bytes": 3499,
+    "sha256": "8d0441b894fa550512f5731bbbe06cb2616d2ec90e1c06c7710f856a82236f4b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/analyze_som.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/analyze_som.py",
+    "bytes": 4862,
+    "sha256": "cb6efe3a64284f6229421ce242af6b5118c91ea1fd6c0d7ee4a7396508eb6fff"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/archive_and_yestrack_paths.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/archive_and_yestrack_paths.txt",
+    "bytes": 38483,
+    "sha256": "b1d91eb04f39e115a5806e6c0ec85aa9aeab71dcbd0ca697a745d4a15fc92b6c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/archive_and_yestrack_search_errors.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/archive_and_yestrack_search_errors.log",
+    "bytes": 1580,
+    "sha256": "fea9410ce0839bbcefc9618fadbb4f561ddcc47c10c8ae9912e309a98ec20bb7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/archive_scan.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/archive_scan.json",
+    "bytes": 87,
+    "sha256": "d6878d02a26bbcc63a3bd902ee199dd98c4f65074efed7264526fcd312fcd7e0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/arxiv_source_inventory.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/arxiv_source_inventory.json",
+    "bytes": 2715,
+    "sha256": "28f3af311d9c5f197cfa35d35f98c6292a3af407105212945cb4e98c779f0225"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/audit_r56_inputs.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/audit_r56_inputs.py",
+    "bytes": 3668,
+    "sha256": "33849e1d25f23d1d6bd6f07b6872047f7e2096984e8c8da8cec912b27b2386de"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/audit_reproduction.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/audit_reproduction.py",
+    "bytes": 7021,
+    "sha256": "d6140681271da77a387a02bbe17be228b9acca8cf90004e174bd2d76faed40f9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/audit_reproduction_result.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/audit_reproduction_result.py",
+    "bytes": 6259,
+    "sha256": "3be60886d6656161f2d6727145c6bfc9b846c5b34edfb97a617759bfe2734136"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/author_public_gists.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/author_public_gists.json",
+    "bytes": 112,
+    "sha256": "1c2c095597e4cc6618b61a7f18cfc9537a2f62215742eee63aeb7facd7e79fb6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/author_public_resources.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/author_public_resources.json",
+    "bytes": 57415,
+    "sha256": "71d324a176f3fe7d58ca1b9e87246d5eedfc73e02f25f410327f6fa5086888d2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/baidu_share_response.html",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/baidu_share_response.html",
+    "bytes": 16015,
+    "sha256": "88bd00904b20d0edbb4cbe4ceb6be681d8f067d1f0d3c1eb645cfd0d3b67b614"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/build_labels.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/build_labels.py",
+    "bytes": 6615,
+    "sha256": "febd382c4adc72ca13e8c146640792201e6ee1c5b5eba42d79e4893283619d0d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/cache_scores.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/cache_scores.py",
+    "bytes": 7684,
+    "sha256": "dc9e588aa14cb0f79bf2d2b1199e3a38d98419df53920b428629a84796be50f5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/calibration.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/calibration.py",
+    "bytes": 7678,
+    "sha256": "90405e706fafb36dab3da10cef9ec4237b466948bd65c48e8cd8ddc1a4a34c46"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/calibration_scan.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/calibration_scan.py",
+    "bytes": 1302,
+    "sha256": "beaa66e91e894f6ad6fe9f7e283a733654ffe09bff5972af3e19a78199610265"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/calibration_source.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/calibration_source.py",
+    "bytes": 2210,
+    "sha256": "773dce6180adfb1291b1d58ead18940cbb5001907403e2a62f665cd86cb0a036"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/class_base_rates.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/class_base_rates.py",
+    "bytes": 4030,
+    "sha256": "7ba90af0ae7d815bc0244c72c371177b20fddb1381711902046899b06e547668"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/common.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/common.py",
+    "bytes": 3590,
+    "sha256": "4a6fdeb40df021260fbff903440b8ad958d67018464b9be756d2004838485b9f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/conference_resource_search.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/conference_resource_search.json",
+    "bytes": 412,
+    "sha256": "51e8622a42598cfb0096b759cfd1150e8b79cd735783326e1bab0d720f1b7cde"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/config.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/config.json",
+    "bytes": 3681,
+    "sha256": "e08c10e61dd727f5cc89b945c339cbe0815aeb3787582ef07b15e59fffff839a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/context_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/context_probe.py",
+    "bytes": 6119,
+    "sha256": "6d60ef97402373ec5da380f582eaf8a77fbc49b46b652d280312fdc9802542a9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/continuation_state.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/continuation_state.json",
+    "bytes": 6870,
+    "sha256": "40da091e355671e1c66486f98ac04dc9b397797d200312c4bd2287935d1a7069"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/data0_asset_paths.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/data0_asset_paths.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/data0_asset_search_errors.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/data0_asset_search_errors.log",
+    "bytes": 1382065,
+    "sha256": "1289affe7021ed09c08afb9b9c1bab33228e45231548bc89a4fb8eb7d2cee5b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/decompose.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/decompose.py",
+    "bytes": 7826,
+    "sha256": "4b6e6663298c31af0bd4b0bd99d55f9da23611d8a01463b31dfcf6108094946c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/diagnose_replay_rounding.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/diagnose_replay_rounding.py",
+    "bytes": 2191,
+    "sha256": "76154556521ac11e843b06ee4c0ae43f9b983c903908e87b1ff461b66a9a729f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/eccv_poster.html",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/eccv_poster.html",
+    "bytes": 70275,
+    "sha256": "97490585b174cd695e358441e6691b74b95abcff3cd029690ce4d832e0a5cb2e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/empty_frame_examples.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/empty_frame_examples.py",
+    "bytes": 3431,
+    "sha256": "8aa71053ea2e82c3f961387fc01cb9965249a632c4a80da88f76b0f32409c098"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/empty_frame_oracle.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/empty_frame_oracle.py",
+    "bytes": 3336,
+    "sha256": "eaacbcca795348145ba6e350fd61e45b9fe1e3490b56950ead3e10cf219bb782"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/environment.lock.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/environment.lock.txt",
+    "bytes": 1240,
+    "sha256": "f717125928bbcee778c8e2591c727b2ad22c0c743db1511726a1225c97eb19d9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/environment_einops_fix.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/environment_einops_fix.log",
+    "bytes": 421,
+    "sha256": "b9faa66114c8527f5e1abfc799104eebab5a6a1605c7ed306ca5e19b66abe042"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/environment_setup.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/environment_setup.log",
+    "bytes": 24302,
+    "sha256": "ccd0def70ed5a36b3579055cae01d19e2567d05317dde3812a91e3989c08d3b2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/error_examples.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/error_examples.py",
+    "bytes": 6647,
+    "sha256": "f91356da3d7f9b6d183df505b1335eee8a7e27ee2c56d104a7ababf5c083338d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/error_patterns.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/error_patterns.md",
+    "bytes": 4655,
+    "sha256": "a0a2c1bc4c5bfe824b9738a995cd7162231c65cc0d5b637f20573980753867f4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/expanded_asset_paths.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/expanded_asset_paths.txt",
+    "bytes": 46197,
+    "sha256": "1c799c17621e91dc937c802cc4dd5aeb977a7376b9ae10508d047df362971864"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/expanded_asset_search_errors.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/expanded_asset_search_errors.log",
+    "bytes": 803,
+    "sha256": "a01d3d3872c27fad5c7056b63c3c7b9d0c3fded42fa941db2402b138f0b201d7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/final_validation.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/final_validation.py",
+    "bytes": 6030,
+    "sha256": "0754cfd803fa6369aa0f11a20f7e78fabefa9093812b762268bff044fe6e25e4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/finalize_round3.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/finalize_round3.py",
+    "bytes": 10307,
+    "sha256": "f7089c268b7eef78dc011cbbd231b688be3c2ce54ec4602d8cfae3aaa2bebb23"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/finish_round2.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/finish_round2.py",
+    "bytes": 4948,
+    "sha256": "0cb065923f88a439433b5fd2d462473808e6049cfa3da3699b5feaee06468bc9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/frame_score_stats.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/frame_score_stats.py",
+    "bytes": 3671,
+    "sha256": "f81da60b382614217a9f4c8c41152004d97e654493e31a321ebedcb3a8b5d62c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/freeze_semantic_review.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/freeze_semantic_review.py",
+    "bytes": 5907,
+    "sha256": "06eb4d6f903d46ded21ff2dee8aaa524db7360067afa74bd7341c807018a2112"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/gamma_loso_control.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/gamma_loso_control.py",
+    "bytes": 13280,
+    "sha256": "e3cd991226ec11984abb13e41ff2320633316b0adc555b64e6899436e4f240c8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/heuristic_diagnostics.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/heuristic_diagnostics.py",
+    "bytes": 3232,
+    "sha256": "1b9912b9a57c1e5ca2a7eec5213a89dd3c9640fb88b3fb2a39c6db877e6c9723"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/huggingface_resource_search.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/huggingface_resource_search.json",
+    "bytes": 53,
+    "sha256": "05cd408b16fd927322efc13ac6021e0b113b7f043b552c610c3098a02da8c7e2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/inspect_release.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/inspect_release.py",
+    "bytes": 1489,
+    "sha256": "9723759f80b1a9329f6b4494c3aaa608a0ea64a17d28bac4816bf1c9879b93b6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/label_audit.csv",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/label_audit.csv",
+    "bytes": 14099,
+    "sha256": "bc8f2fdee0c4f74fca5b922bcf769585ac7edcae8abd1d52ee3cece03abd2c68"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/label_groups.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/label_groups.py",
+    "bytes": 2120,
+    "sha256": "0fe0235765582f649d5609a5d425da7fbae7bcf0a7c7b9e53aa82d4854ed9204"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/annotation_equivalent_groups.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/annotation_equivalent_groups.json",
+    "bytes": 98012,
+    "sha256": "8feb158e58b3a920cf483807b773441640c447a553e5d7000fd28503b6eeef07"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/distribution.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/distribution.json",
+    "bytes": 1946,
+    "sha256": "f5a7323fec82d9b5968a23eeb9b8fa3ac5106cde50b7df06517ddfbd5a3c1cf0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/expressions.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/expressions.json",
+    "bytes": 451404,
+    "sha256": "5a4e23d4648f246c70ca47d9d0713fd9045b7e5ff46aba685bcd98a374fcfb82"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/keyword_distribution.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/keyword_distribution.json",
+    "bytes": 1946,
+    "sha256": "8d2aed48b56f82a0b56f7a0919f83e221a67622b7981519385bfc962113d2411"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/keyword_proposals.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/keyword_proposals.json",
+    "bytes": 394938,
+    "sha256": "ba91eecc867a48b2e2267e8c0dfb41d9f936f3473ec5199cbf625416a8e2dfb2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/llm_review.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/llm_review.json",
+    "bytes": 155892,
+    "sha256": "db62cd46cbf45642fa6213392bb220f39e0d321de5f6930b5aa2868471fa4248"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/semantic_review_input.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/semantic_review_input.txt",
+    "bytes": 39168,
+    "sha256": "bc20b2420c5a638129cc590e2586c7f4e377b20fad1c0cf75b46c17383843f8d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/labels/truth_switches.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/labels/truth_switches.json",
+    "bytes": 486198,
+    "sha256": "3aa4716b8a650adc4a0c72106f0b4a9656affb17ee2f28090b1fe0acdfbfa956"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/launch_shuffled_som.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/launch_shuffled_som.py",
+    "bytes": 5670,
+    "sha256": "2842d5ca339000f284ea36a510e2eb1a16f0f5f4ee05479e28fe49fc11caaf54"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/local_baseline.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/local_baseline.json",
+    "bytes": 1630,
+    "sha256": "a6c4e0faba9d93b557ff0b4b9411ae23809c340762c4d467e9c8feda2533593a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/login_audit.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/login_audit.json",
+    "bytes": 431,
+    "sha256": "b0e935d5b5e2b72f61471b1f70205a9196d9a1be8b33ecbf355f42da09b77718"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/notcp_actual_replay.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/notcp_actual_replay.py",
+    "bytes": 16040,
+    "sha256": "f9908600a984cf0ff528f407970bdcf4876e9881ab1c01489d220731f9403fef"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/observed_inference.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/observed_inference.py",
+    "bytes": 2085,
+    "sha256": "20a1d5d056f0c3171ac3b07dc4ab52791e3222ec61b0e42a311a65a48e49e5f1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/observed_inference_timeout.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/observed_inference_timeout.py",
+    "bytes": 592,
+    "sha256": "005611a162a376a65bc25566b13727c1e24a491606d2123dedb24fd437481f3c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/pcs_trackllm_search.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/pcs_trackllm_search.log",
+    "bytes": 128,
+    "sha256": "102f005398198582636cbf83205996327565283a001f38b79b90d451fcff3d59"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plan_probes.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plan_probes.py",
+    "bytes": 3078,
+    "sha256": "73f509d94852adea39876cbdf8261f4b6155fc3bb9cc3b7940de0a0bf80c6308"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plan_som_and_births.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plan_som_and_births.py",
+    "bytes": 2758,
+    "sha256": "e1bb5d45081efb63d3dbde48440b379000d47d867e44e31686c2c40352eb1f1b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/R19_timing.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/R19_timing.json",
+    "bytes": 2774,
+    "sha256": "a0b39b60e4740ea213d5d8c418a6ccb3b0855a9084f0e002049c07b61513a496"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/R22_budget_request.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/R22_budget_request.json",
+    "bytes": 898,
+    "sha256": "ea6ddc9ce094ce31a3a6586e71e34bc8e4a7d008e51831cba06b32a296084cce"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/R47_shuffled_som.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/R47_shuffled_som.json",
+    "bytes": 404,
+    "sha256": "9d36958fcf0855994ffdf394c47fdeaea2e47aba65955bf056dab8c585721cce"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/calibration_full.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/calibration_full.json",
+    "bytes": 5760725,
+    "sha256": "624c007de49f0da9386acc84c9a86dcd37bc08b69ae389e7105a0a426643002b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/calibration_v1_full.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/calibration_v1_full.json",
+    "bytes": 656846,
+    "sha256": "509ce5d2ededcba41fa4b9d8c6b356ab47b9ddb56e44e5930b5cee9119f83cbd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/context.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/context.json",
+    "bytes": 98198,
+    "sha256": "f589b2c3e383441bdcfb3fb5d38660eaebf9e9d2310b23a738fc6755b708ec4a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r56.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/r56.json",
+    "bytes": 3685,
+    "sha256": "51eac835de4dd2833c307d406f672927efab7272ea5b93d1e39e5d6befd48710"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/r58.json",
+    "bytes": 62041,
+    "sha256": "50be07619e7636da87f69faf168d0de999a2a96a4545143f6882bb5c99a4016a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/round3.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/round3.json",
+    "bytes": 6072,
+    "sha256": "1252146de23e00e9593e2afe72661d36c98b8328cb037adac10d3eb8518dffb2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/round3_actual_native_trace.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/round3_actual_native_trace.json",
+    "bytes": 2677,
+    "sha256": "039d4071a20386c02e749a2c26d7240bbc0899214199c21cb79638c5391aac6f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/round3_actual_notcp.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/round3_actual_notcp.json",
+    "bytes": 3480,
+    "sha256": "84a29f4950f0a79616712130fa5b1d41f9e140783301b97a8618446f8dd59380"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/round3_budget.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/round3_budget.json",
+    "bytes": 2727,
+    "sha256": "c03775774fb2dc936eb18a76ede123802cc9cd98a2635df4d519bcee1cde193b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/round3_gamma_control.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/round3_gamma_control.json",
+    "bytes": 1737,
+    "sha256": "3ebbbca991470a739c7937ee114662ae6360ba86335ea5fadb3a32ba912da1ae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/som.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/som.json",
+    "bytes": 38547,
+    "sha256": "5daa6009adb3dfdfc9c4031407b525989dc0a3d774ea0e6d4c46b9683d546fcd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/trp_births.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/trp_births.json",
+    "bytes": 368192,
+    "sha256": "c79ef6282b7e2ff3b729c357808fa6c13c74c01b59144edc4c81b8564708feab"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/plans/trp_full_f.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/plans/trp_full_f.json",
+    "bytes": 4220531,
+    "sha256": "27785b72bec5f5ed39c25ac54ca2390b30ecb5ec5bba482fc74d808118890fe6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/preflight.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/preflight.json",
+    "bytes": 28392,
+    "sha256": "33d2a9349cc5d2055ca583dd9fdff6761cb9742b0b6e1d333f15accd93dbb5e1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/prepare_gt_candidates.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/prepare_gt_candidates.py",
+    "bytes": 4456,
+    "sha256": "2166910a933d6231b0d0019d39c4a3352b0428233033ed9afbd8f8b5fdce60c9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/prepare_oracles.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/prepare_oracles.py",
+    "bytes": 5171,
+    "sha256": "543458a78fbd3aa925b413e31d4eb39e8f03254f0c56c44e98d0f8b1d0e4a185"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/prepare_reproduction.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/prepare_reproduction.py",
+    "bytes": 3147,
+    "sha256": "aed26499aaa12254260468f7c82fe621fbb18042ae47aeb45147ebc58ee47e9d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/prepare_v1_plan.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/prepare_v1_plan.py",
+    "bytes": 3132,
+    "sha256": "902fc6f2c3c5bb52ebf8f0c13a808e9b1b1addfb7f6bf9db6b48e1e17e3838e9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/probe_release.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/probe_release.py",
+    "bytes": 4732,
+    "sha256": "b4e93b5100b5f7fb11d7248f2372e78cb0dfb0c6ae4bd68732470cd45a92fc0a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/process_owners.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/process_owners.json",
+    "bytes": 105,
+    "sha256": "b97459641a1163e79595f004482f57f69dcc731d651d55661e7213421a03f0bf"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/public_resource_search.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/public_resource_search.json",
+    "bytes": 72607,
+    "sha256": "92a8a2073ff3c3ad08c4c657039a844cd5affe45123acb5e17f628cb8535d771"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/quantization_sanity.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/quantization_sanity.py",
+    "bytes": 2069,
+    "sha256": "8cf52a8927425cf851094fb34891c1d2bcf0c47d14fb5a0790d3f64f07709f21"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/queue_full_scores.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/queue_full_scores.py",
+    "bytes": 2319,
+    "sha256": "f1be51619242082a5b5c66e44642752dc32a77f6eb4e3ecff5720f5cc662efdb"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r13_diagnostics.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r13_diagnostics.py",
+    "bytes": 1756,
+    "sha256": "f651025c20f8edd45a54fff32aa7139ffba606c88bd96323e70e7464e151ee88"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r14_thresholds.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r14_thresholds.py",
+    "bytes": 3951,
+    "sha256": "531bb63b180d13170442ee6495e9fb62a3bea927bb6f65b3913f4bc1dd47843e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r15_coordinates.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r15_coordinates.py",
+    "bytes": 3476,
+    "sha256": "ba4d9c19202e0f1456e7b556b1cbb7fd658cd82663556feca83fa35818f25679"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r56_error_oracles.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r56_error_oracles.py",
+    "bytes": 23106,
+    "sha256": "ce223ce935a9b17355e5c57e73819021df98b9fe8988ed3f998a953da4091ef9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_analyze.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_analyze.py",
+    "bytes": 24549,
+    "sha256": "42613087632dc92ca3a588820e975700ffbcd91d156f8ae8b11ed5867af096c6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_budget.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_budget.py",
+    "bytes": 6014,
+    "sha256": "95f1801202f1ddc61886ef79f2b405e86a0d113c0f0c74e85ca4d6bc8a9478d7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_check_pilot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_check_pilot.py",
+    "bytes": 2106,
+    "sha256": "7b47c8eae81c7e9b770b658399670ffddfd8b2b905fb45b420c7f8f75d021737"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_cpu_owner.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_cpu_owner.py",
+    "bytes": 3830,
+    "sha256": "dfd9d1c5d90c483a1814110fb0a125decf9d2b90a35d85d3f49fb72ca2e8fab2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_data.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_data.py",
+    "bytes": 17135,
+    "sha256": "ac2ea7b734433f7cb3bc1e22dbdba9da5ce1311ffefdf778c93bc66c904acec7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_detached_pilot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_detached_pilot.py",
+    "bytes": 1089,
+    "sha256": "ef7c0b8bd481bc5101327629f457eed281f9370ae1b4c5ab83c50e5321abd3e7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_discovery.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_discovery.py",
+    "bytes": 4241,
+    "sha256": "1c14feed9527dbcbbeed88018acf5911b368ab56d5b7f998dd5c273be8b28b22"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_download.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_download.py",
+    "bytes": 2274,
+    "sha256": "24ed6f13b27beaed8c3a404bcef5b5bec898858e8398721a8864359ad1406a70"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_environment.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_environment.py",
+    "bytes": 942,
+    "sha256": "ff98b6606a117da4788a45ebdc16ae0f323f2b7d9e2c2fdfe1adbbc6a3cdc342"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_fast_download.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_fast_download.py",
+    "bytes": 6195,
+    "sha256": "e36e44f3c70ad468e56c6154d9276eaeb176dd6720f71ceea2a487675bdedd82"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_gpu.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_gpu.py",
+    "bytes": 17848,
+    "sha256": "d07e587fca662cc79a4f044aa8ad9d470641fe167774e5cbb09d18d4406870be"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_handoff.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_handoff.py",
+    "bytes": 3376,
+    "sha256": "b1eeda60a5283ca1ecce0cf3e67eab2ddf34c0369dda67bef5cd8341a131cb96"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_http_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_http_probe.py",
+    "bytes": 1379,
+    "sha256": "7eb38072e85b15a89588664a0c12b7a1fcaddc7b58c333be18ffcbc301ced614"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_launch.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_launch.py",
+    "bytes": 2728,
+    "sha256": "afb3131b6935c4f29b005de2b4e2f339bd61983339f9748007e5be4032e791cf"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_metrics.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_metrics.py",
+    "bytes": 13006,
+    "sha256": "ff362d0eee3614a951ee457c7145d2d546d3ebdf7583d5abf5a0e0bd849f5d1c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_modelscope_metadata.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_modelscope_metadata.py",
+    "bytes": 1452,
+    "sha256": "e77cf24207f6d930650c30457e6766feef3f1d42a9974bdb3f4991a71cf9804f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_modelscope_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_modelscope_probe.py",
+    "bytes": 1858,
+    "sha256": "5dc80d7ab15db11d42660ee74d2fb2c7e323eab0110d658c51ca7e25a17ba789"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_network_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_network_probe.py",
+    "bytes": 1100,
+    "sha256": "67829c410ba0fcf6779a13167096a27cf266c7bce1a8e408d3408f60413003ab"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_owner.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_owner.py",
+    "bytes": 9986,
+    "sha256": "4bd6972b85ae2dd7fc271449eb55cbd2deebe9ce70bbd9e952aa17d1cb1a93ae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_pipeline.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_pipeline.py",
+    "bytes": 1481,
+    "sha256": "564e00fa0e844cd9bfdfb4407e74401b41e49e3c6c5e73c1c5c0080b8c8c47b2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_protocol.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_protocol.py",
+    "bytes": 30465,
+    "sha256": "77ca25923dc9faf2f39add72f0aa3a82801fa4dc10329eb531cdcb81e8aec181"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_qwen_cache_regression.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_qwen_cache_regression.py",
+    "bytes": 3351,
+    "sha256": "dfeafb0a8fe90b582cc50f9fc020340c2d8fcce71715ed235db56b6dfa576335"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_report.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_report.py",
+    "bytes": 49029,
+    "sha256": "c724fb98de8ca0c3fdb4b22a720cef280178914b096bdc503b5bff48b337601f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_reuse_local.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_reuse_local.py",
+    "bytes": 1910,
+    "sha256": "c0d83a2ab3b21a1a4da2b5d55967abed268a58b234b7e5949083235b6fee4300"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_runtime.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_runtime.py",
+    "bytes": 2155,
+    "sha256": "a4fffc0b2ece5df73d5535db3befed1dda57757d8f9917263f993ccac29fb4af"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_transport_benchmark.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_transport_benchmark.py",
+    "bytes": 1740,
+    "sha256": "4ce34a658fa7dd60b849fb0a960125dbbda0e0127eeffd95975f60fb223a41e5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_wait.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_wait.py",
+    "bytes": 2956,
+    "sha256": "a14287a749da2bd5ef36a8acf9da4e4da1a162dc0ff9ae60b35062956699a45c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/r58_wait_cpu.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/r58_wait_cpu.py",
+    "bytes": 1936,
+    "sha256": "8458cf568ba98f66659e822d5c2bd81a05660be28e3672d168892b1f189f5637"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/recover_error_manifest.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/recover_error_manifest.py",
+    "bytes": 3068,
+    "sha256": "cb9f5b2d2d3adb4254ad5b0d2ffbb4f29a0eb5265f078d3d5a2db596edbd9c01"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/recover_h2_detached.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/recover_h2_detached.py",
+    "bytes": 4778,
+    "sha256": "1a6f15593c467a0ee2924cc3c59d62ae5286828fdd5dc98f0cd862d8cab208d5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/recover_interrupted.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/recover_interrupted.py",
+    "bytes": 7043,
+    "sha256": "a870490b17caf82b95d30f135fd4d5b8b74b138a2eb861717a25d0beb8bf9449"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/release_inventory.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/release_inventory.json",
+    "bytes": 345888,
+    "sha256": "c78768585ce0be26e1f8d35f1c4359fe06a77ebb21dcfed1be646ef5a7eb2689"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/release_probe.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/release_probe.json",
+    "bytes": 856,
+    "sha256": "140e9e3015a657466d7d851dfe4bb788d60235c2ac82f7110c9c99e7d22ccad8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/render_report.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/render_report.py",
+    "bytes": 41551,
+    "sha256": "2a4742dcc36b1492ed3bcd87aba6f9405bd09a0fb6c0527116673728fb1a0973"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/replay.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/replay.py",
+    "bytes": 2366,
+    "sha256": "3a8d9b17f19814bfbb1b4cdf62649acc936e784a46c1bae68b57370724ae3939"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/reproduce_round2.sh",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/reproduce_round2.sh",
+    "bytes": 3697,
+    "sha256": "73f9f9ffa2adde1b3f571f647b40be3eb9ae511d565b8a0cddc2b36cbf147cc0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/reproduction_diagnosis.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/reproduction_diagnosis.json",
+    "bytes": 3130,
+    "sha256": "3f6f5203782c11fd7cc59147839f8a00db97a58217b62afb9737ca1d04bdebae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/reproduction_diagnosis.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/reproduction_diagnosis.log",
+    "bytes": 3115,
+    "sha256": "d91509b5225f15166f02af778fba97d3ef66e0f48ff14ed8bccbbd4a3bd0e2d2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/reproduction_inputs.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/reproduction_inputs.json",
+    "bytes": 157244,
+    "sha256": "09efcd28cfda4479445334b6596ec53b8fd162a9bacfccc9a168df4509a26de3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/requirements-yestrack.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/requirements-yestrack.txt",
+    "bytes": 334,
+    "sha256": "a8f2e84e9d4e75953655c7194bd8cd176c4e1876597c672f566716a596ba32d9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/research_log.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/research_log.md",
+    "bytes": 49469,
+    "sha256": "275cca06302a548596080c73d551149290b629af7c7f795df8279880784145e9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/resources_download.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resources_download.log",
+    "bytes": 3901,
+    "sha256": "1d74bb2cd0216c9d990255401f6077ccd8a1e45a25c3f793c062178a05653e54"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/resume_notcp_native.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/resume_notcp_native.py",
+    "bytes": 15169,
+    "sha256": "f1a5a95c6d361d75a1ee47340f64ee630fecbd120f68c4ae7889c8130881744f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round2_status.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round2_status.json",
+    "bytes": 321,
+    "sha256": "047af09f59c84f0a5b83901a353f0962f85e27c8f890eab1a966fe7ea31013f3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3.py",
+    "bytes": 46722,
+    "sha256": "ab2deeffdf8531b3065db638c0cace79511b70e521b5915003f4fc15356ee28b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3_budget.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3_budget.py",
+    "bytes": 17564,
+    "sha256": "90b0246be93ef21c24ca010cebfedd01b1d37c8f8b1bacc14772b58c3fb1526c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3_budget_validate.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3_budget_validate.py",
+    "bytes": 2003,
+    "sha256": "d060316ccd1be96b18877cbfe1e51c53adb693df8d3ed83fb0137db859a94f04"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3_owner.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3_owner.py",
+    "bytes": 3084,
+    "sha256": "1a7b2998973183fc2c2d1694d68c065c3d8520ab1b5832c25e1e63ce7bac0c14"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3_state.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3_state.json",
+    "bytes": 1327,
+    "sha256": "d4ae732f5397551e14cb16606f49ebdac5229d1fe69afdbe4eea5fe79b99a12b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/round3_validate.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/round3_validate.py",
+    "bytes": 3366,
+    "sha256": "d3e150b12e173ca04fae310825256a243acf130b24bca8d636f6a298405081ea"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_actual_native_trace.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_actual_native_trace.py",
+    "bytes": 9961,
+    "sha256": "3c32441a74926916e17bf75a7b13f2f3956615290bbbdc488ef5300dfd76ec09"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_h2.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_h2.py",
+    "bytes": 5261,
+    "sha256": "80048a03346328d8aaf8971fe3ee7f24b68e8cc42206f84efa98f86fb80a3473"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_notcp_when_ready.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_notcp_when_ready.py",
+    "bytes": 12095,
+    "sha256": "0d80b9d0f0537564a7d02a3c93b0ef167b58498c6aa56714ce5d22ca34218d53"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_score_cache.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_score_cache.py",
+    "bytes": 7425,
+    "sha256": "92bf63fb77813a10bbd7dbc066a1c5e0d8fd18e8de0227b409468bba84ad3f6f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_stage0_temprmot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_stage0_temprmot.py",
+    "bytes": 6780,
+    "sha256": "8f8d319fd8f74c820de207928a0fd35f500cc0a483652216745cc6ad77500f44"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/run_v1_calibration.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/run_v1_calibration.py",
+    "bytes": 3120,
+    "sha256": "3837ef81409383511f3cd6a16e7def8c43c347035ecb2f75ef86ab5c7bad8f33"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/runs.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/runs.md",
+    "bytes": 302333,
+    "sha256": "702b6331a3c0f9aeb5af42b85aad11f2805098aef2d5bb136d8cc09ab7e26dcb"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/runtime_smoke.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/runtime_smoke.json",
+    "bytes": 360,
+    "sha256": "85feebc5c2debc843795008876880165bd1ba7db9f15dadb7e80d813a5167345"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/runtime_smoke.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/runtime_smoke.log",
+    "bytes": 1170,
+    "sha256": "c318cda02afaa5caf32a21f6f2fdd0698c13496c726fa8c6ed687216d9c3be06"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/runtime_smoke_repaired.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/runtime_smoke_repaired.log",
+    "bytes": 1373,
+    "sha256": "fb9cbea3d3f32c54c7813660d92ded221bc436b8101bd8c25d2774a59e4d82fc"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/runtime_smoke_repaired_v2.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/runtime_smoke_repaired_v2.log",
+    "bytes": 185715,
+    "sha256": "b952e4c90eee4646704cc7f1acd18946b6e7054615c7b46a04295d7e5a1ecf20"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/search_public_resources.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/search_public_resources.py",
+    "bytes": 3935,
+    "sha256": "1834d5e38d09046388e29fb8681b41b27cb8fd7318962af9e8314c3474a875e1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/seeded_run.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/seeded_run.py",
+    "bytes": 1002,
+    "sha256": "31fcbb63883d100bf013e820ba5cea3bdf5f0b519ef3a9c13295564a0545a736"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/smoke_runtime.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/smoke_runtime.py",
+    "bytes": 2772,
+    "sha256": "30283fbad79759f0e958cde09a4aa6bd4ce2a4ba4824d8f7000b54946e949ff9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/som_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/som_probe.py",
+    "bytes": 10784,
+    "sha256": "abc99a1e6e6f01cd8b645a222bb1a4b2f24a3053788135a12401e4caf9df5a84"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/stop_superseded_trace.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/stop_superseded_trace.py",
+    "bytes": 2460,
+    "sha256": "f3222b328a1c473983939f2d5a22cf3df646e2fe27316baa5e05021c0eea2c39"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/threshold_transfer_actual.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/threshold_transfer_actual.py",
+    "bytes": 2060,
+    "sha256": "c305ade72329f8f28d286e48d67a34921308e18203020f71d6fb015c6b43289a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/trace_tcp_examples.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/trace_tcp_examples.py",
+    "bytes": 2771,
+    "sha256": "8527132ae76a129232a9276ce304b183c5936b97a24c997f3a3ca7b8e31bc91a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/trackeval_import_check.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/trackeval_import_check.log",
+    "bytes": 4190,
+    "sha256": "b9b8b6f3557b95e6938019262462f67924e3373aa5c21127c34e9d1add0dfa66"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/trp_probe.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/trp_probe.py",
+    "bytes": 6639,
+    "sha256": "26ca0582d7007eaee51f1d47677d00e6d14f739292c4789458d6fa781417e476"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/HEAD",
+    "bytes": 21,
+    "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/config",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/config",
+    "bytes": 270,
+    "sha256": "1ecd48f4c37d2f772d6e56d6cd9456dc707d7525513340da1aaeca0f82c887ab"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/description",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/description",
+    "bytes": 73,
+    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/applypatch-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/applypatch-msg.sample",
+    "bytes": 478,
+    "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/commit-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/commit-msg.sample",
+    "bytes": 896,
+    "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/fsmonitor-watchman.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/fsmonitor-watchman.sample",
+    "bytes": 4655,
+    "sha256": "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/post-update.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/post-update.sample",
+    "bytes": 189,
+    "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-applypatch.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-applypatch.sample",
+    "bytes": 424,
+    "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-commit.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-commit.sample",
+    "bytes": 1643,
+    "sha256": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-merge-commit.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-merge-commit.sample",
+    "bytes": 416,
+    "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-push.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-push.sample",
+    "bytes": 1374,
+    "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-rebase.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-rebase.sample",
+    "bytes": 4898,
+    "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-receive.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/pre-receive.sample",
+    "bytes": 544,
+    "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/prepare-commit-msg.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1492,
+    "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/push-to-checkout.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/push-to-checkout.sample",
+    "bytes": 2783,
+    "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/update.sample",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/hooks/update.sample",
+    "bytes": 3650,
+    "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/index",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/index",
+    "bytes": 11933,
+    "sha256": "bbd05017bff1c1b8269d81898eecbe6867325fc126be82cf231e263c769f9333"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/info/exclude",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/info/exclude",
+    "bytes": 240,
+    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/HEAD",
+    "bytes": 206,
+    "sha256": "57b0407e584efa20a6fa8a3cf2ce70fa6494e3568b8eeb990a4500fd6923b24c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/refs/heads/main",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/refs/heads/main",
+    "bytes": 206,
+    "sha256": "57b0407e584efa20a6fa8a3cf2ce70fa6494e3568b8eeb990a4500fd6923b24c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/refs/remotes/origin/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/logs/refs/remotes/origin/HEAD",
+    "bytes": 206,
+    "sha256": "57b0407e584efa20a6fa8a3cf2ce70fa6494e3568b8eeb990a4500fd6923b24c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/objects/pack/pack-9d831d0c5f938349f17198a1943838c11bb5a65b.idx",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/objects/pack/pack-9d831d0c5f938349f17198a1943838c11bb5a65b.idx",
+    "bytes": 4908,
+    "sha256": "648378db8ceaf811b19d95902669faa441a0190d43c3b18bcf94bd475cf9e8e5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/objects/pack/pack-9d831d0c5f938349f17198a1943838c11bb5a65b.pack",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/objects/pack/pack-9d831d0c5f938349f17198a1943838c11bb5a65b.pack",
+    "bytes": 712144,
+    "sha256": "8cbb3b6af2885c34b2343e2f97afecd5ebb01f9909207fc8a6fbceb78aadcd07"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/packed-refs",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/packed-refs",
+    "bytes": 112,
+    "sha256": "7e0874ed46b62e3094f33182bd3c4d363d3f4b4c94e4321388beb640267596fd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/refs/heads/main",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/refs/heads/main",
+    "bytes": 41,
+    "sha256": "60fc86d037add35f0513fdca1c8f3f5164ac27141ace0fc4c4d8e79c37440d1a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/refs/remotes/origin/HEAD",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.git/refs/remotes/origin/HEAD",
+    "bytes": 30,
+    "sha256": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.gitattributes",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.gitattributes",
+    "bytes": 136,
+    "sha256": "00f7536c402491899575c920b4dcdae95bdc8bcc882c8e1a275eb42a63f19f7a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.gitignore",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/.gitignore",
+    "bytes": 901,
+    "sha256": "a09f8dcad3a7ceb53981987750526b5285780d9a98235a889b3309c5d187ed23"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/LICENSE",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/LICENSE",
+    "bytes": 1095,
+    "sha256": "940b96f37266f9de16e33dc10491ace3147e037c4109f483c963c5ab18d80a77"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/README.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/README.md",
+    "bytes": 9106,
+    "sha256": "22c3d3866230b1e8e5d84bc97ad47b8fc23290699cc59b0f014f0ff5ffde664b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/LICENSE",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/LICENSE",
+    "bytes": 1072,
+    "sha256": "f7e548c5729e464d878dd4abf691e323bbea028a756d08395d88b83e43dd2d86"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/Readme.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/Readme.md",
+    "bytes": 12296,
+    "sha256": "42ddc6486ba3f2fd0cae0c821068a8f17ca2f9c96018ee845a30dcaa22f2b078"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/BDD100k-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/BDD100k-format.txt",
+    "bytes": 5071,
+    "sha256": "52089fb1b4e83668e0b3a0da9771e405cc5bc0a009324ec8ac28c2e7741b023e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/DAVIS-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/DAVIS-format.txt",
+    "bytes": 1088,
+    "sha256": "2b3f462e79729d2fdd2138f658a190b6b243c9d5827643a3fe515a776d467cb2"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/How_To/Add_a_new_metric.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/How_To/Add_a_new_metric.md",
+    "bytes": 1596,
+    "sha256": "bbcdc75381e9741c716ac9303ff33f5c82c34b490541dc2fe31c6cd2cb1419b6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/KITTI-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/KITTI-format.txt",
+    "bytes": 8792,
+    "sha256": "4b1c0b37429a134a907e1eb305fab6bfcc18514ddcef405cdc364a1b2b9feeae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTChallenge-Official/Readme.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTChallenge-Official/Readme.md",
+    "bytes": 7270,
+    "sha256": "f3e8476cd5e30fd873b3e05ae52ef704c226ec2d48a546979fc3e0e241f5c160"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTChallenge-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTChallenge-format.txt",
+    "bytes": 2102,
+    "sha256": "cc43d4a54b5e5fec948941138e3d6886f184c6f99451a03f5275fa1782d7a4ad"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTS-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/MOTS-format.txt",
+    "bytes": 1884,
+    "sha256": "b02e2d140808b01d64ae4a5d5798af4997443f693a0c54a512b0e2cf636ee17e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/RobMOTS-Official/Readme.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/RobMOTS-Official/Readme.md",
+    "bytes": 13621,
+    "sha256": "2b11501dc5f1f344759247e54d6de9216c606940a0ff2af2fe94267947945d52"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/TAO-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/TAO-format.txt",
+    "bytes": 1203,
+    "sha256": "c63f142bec8dac341cf4ae011b55ffc02ecae5ddb4e0e0341cca2bf3d6357077"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/YouTube-VIS-format.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/docs/YouTube-VIS-format.txt",
+    "bytes": 1500,
+    "sha256": "5307a2c4cb38196291be033b3e836fb057e8364bff58033ff2b43c73280af874"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/minimum_requirements.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/minimum_requirements.txt",
+    "bytes": 27,
+    "sha256": "cf05d33723fa9e6cac11e1896baa5c914b5680b9f197fb9c18260baaad4bfa69"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/requirements.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/requirements.txt",
+    "bytes": 137,
+    "sha256": "7b85ea5e1777c0838bb9eba4a226cd5de8bb9237ec1ba44f5a40cbf983324294"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/comparison_plots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/comparison_plots.py",
+    "bytes": 732,
+    "sha256": "07c326ddb76c0dc4c4f43cfb58aa07902e2bfc34bcf704483234647dbc70acae"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_bdd.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_bdd.py",
+    "bytes": 4153,
+    "sha256": "07694148e20d746c3a7caaae87cdab393473276886dec338387202b92e955d40"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_davis.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_davis.py",
+    "bytes": 4332,
+    "sha256": "db14337128ecf49928000d900003e76b80e8e1210f8d94654558f871fc204aa4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_headtracking_challenge.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_headtracking_challenge.py",
+    "bytes": 4270,
+    "sha256": "3812959355dabc9b922e6e597e2816a37ff29666f409bb24c8ad4711c751df9e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_kitti.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_kitti.py",
+    "bytes": 3937,
+    "sha256": "6e889e89b5a37e8cb6fd3a99c34901559f5b2a9d8d764bcec8c2ac0419084b24"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_kitti_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_kitti_mots.py",
+    "bytes": 4419,
+    "sha256": "798b8b1d9ef304956294e5acb9ab8f03e1d3356499b624d23ce0491051153972"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_mot_challenge.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_mot_challenge.py",
+    "bytes": 4248,
+    "sha256": "dae02aed9d617aa650454930ba3af743e3904ece9c8ec8d32b3a1eede2d6f5dc"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_mots_challenge.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_mots_challenge.py",
+    "bytes": 4743,
+    "sha256": "3ad66d0c9b4a5ac20b2bde267842052de070201a2012daf830a8b2a53ae1a765"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_person_path_22.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_person_path_22.py",
+    "bytes": 4883,
+    "sha256": "5e3ccc9b480b53a6e2819437453431d40588c38af31d65a2085de534ad63a581"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_rob_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_rob_mots.py",
+    "bytes": 7083,
+    "sha256": "d56cf328dd89d789bc9afa7566269c09ff66be631dec91848813f3e14317f7b1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_tao.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_tao.py",
+    "bytes": 4198,
+    "sha256": "44dcb6eb27d9f2579c89d04f526e05dfdd48907bb6d46d5aa93c8256d07d7cb0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_youtube_vis.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/scripts/run_youtube_vis.py",
+    "bytes": 5153,
+    "sha256": "4fddc298ec6a22285bcb9d98515b4955a689e1377b8da0f95834c59eed68df37"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_all_quick.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_all_quick.py",
+    "bytes": 3495,
+    "sha256": "b2e1d17a12f95ad21c536ec11aa9c0e8174e25ec61cd896eeb444c40948ab650"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_davis.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_davis.py",
+    "bytes": 2749,
+    "sha256": "12c5a45833cab94eca9c31418c719d845111183e3d3c8dcb93851f8a0b36ca86"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_metrics.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_metrics.py",
+    "bytes": 6734,
+    "sha256": "f158944b9845f1a2a627cd0b9ec661a2d2f74cbffdd37493b6e70b6c0b74cfda"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_mot17.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_mot17.py",
+    "bytes": 2725,
+    "sha256": "0a0f22469d20a80ee64109627961581f98604d29e1f46bee25d9565de9e625bd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/tests/test_mots.py",
+    "bytes": 2860,
+    "sha256": "f6e906d70a0d50d528c0c4568cea4bc522bc35db60b35b3f6b13600fd1840bb8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/__init__.py",
+    "bytes": 116,
+    "sha256": "636586f4cc90a0be21e8aff605fb7fe97c089b3c46fafd43745d4c41bedceae3"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/_timing.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/_timing.py",
+    "bytes": 2323,
+    "sha256": "62e60638efc675bccc35c7da65158f0f19ce31f332121efe7cc748bd92ad2b30"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/__init__.py",
+    "bytes": 110,
+    "sha256": "dc462eb70779efb26be862da81a0506f43bfc9d3a2b4f72af0d30ef20e56867d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/baseline_utils.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/baseline_utils.py",
+    "bytes": 12727,
+    "sha256": "31f2a3b5ef023a4fc3e2a9dd184a9d78d3d542f3e99c59f136f140fac0f2a6cc"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/non_overlap.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/non_overlap.py",
+    "bytes": 3330,
+    "sha256": "eff1313faf25997254f6dfde76992e5570990036d55f4e9d320a14172c7a52a6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/pascal_colormap.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/pascal_colormap.py",
+    "bytes": 8723,
+    "sha256": "64350a3519999aed195c258c888c14943e187554b2ec7ae776288eb259e377a6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/stp.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/stp.py",
+    "bytes": 5986,
+    "sha256": "28801ff9f4e86a0d0e8ae8647c59f47f5c231023c0b4bdd6f52421843b3584ea"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/thresholder.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/thresholder.py",
+    "bytes": 3111,
+    "sha256": "2c363b9023eaa7156f6c336331079f97f09e3f0b4d9425e6f756daaf8e4a7dfa"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/vizualize.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/baselines/vizualize.py",
+    "bytes": 3130,
+    "sha256": "2dd6d0b90944337fdf0da898e1fcd4740bc2ecd67825bccc0511e6fea2e85ec0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/__init__.py",
+    "bytes": 406,
+    "sha256": "f68d2395183750fb1be8d91602b721e549e1b247d5d0222691df48a509a6759d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/_base_dataset.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/_base_dataset.py",
+    "bytes": 17008,
+    "sha256": "9094b50490b5567ed6f22cac6aa6ec969f4d467d4d28515546e0b875ffe976f5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/bdd100k.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/bdd100k.py",
+    "bytes": 16593,
+    "sha256": "54bd7b8fd781e25345fcd6e348d0dc7f21a27090e64c39d46e495c734ae0e468"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/davis.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/davis.py",
+    "bytes": 14171,
+    "sha256": "e24f915909111ea4d2754a655af6fd395d61fa84d9027841df5ea8b81ef1c817"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/head_tracking_challenge.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/head_tracking_challenge.py",
+    "bytes": 24693,
+    "sha256": "e85a4f18363cbf8a86e7510a6eeb6a2027033c93d7255aed8339c342a3173cb8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/kitti_2d_box.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/kitti_2d_box.py",
+    "bytes": 21561,
+    "sha256": "9013c2a28dd39b4d1e484b6fc7822ba3a14e92e4bf048b7a2f2baf008b972079"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/kitti_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/kitti_mots.py",
+    "bytes": 22384,
+    "sha256": "0ebd20c29ba889dfacf08855594d5eb7be1b17018582045794e5560f3c8d9294"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/mot_challenge_2d_box.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/mot_challenge_2d_box.py",
+    "bytes": 23987,
+    "sha256": "625129937f555ed00e74d9ba1c17b95362150f5215fd980e6229041d2d12a780"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/mots_challenge.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/mots_challenge.py",
+    "bytes": 23617,
+    "sha256": "e60dd031d3558cd67fc6c77f1075f9f9ef986574d622ce97753e843c27abfa9c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/person_path_22.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/person_path_22.py",
+    "bytes": 25074,
+    "sha256": "6e31c42c3c7831f40c4fd6f49f835eff25eef28f10c901d2b9ff87d84fcf4fcd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/rob_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/rob_mots.py",
+    "bytes": 28129,
+    "sha256": "c495266286fd4aabb98a2aba386aa7dea1e2bda91295a2676e198b342208e130"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/rob_mots_classmap.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/rob_mots_classmap.py",
+    "bytes": 1270,
+    "sha256": "db79031762d5fb55c009999cdb89586a70d11a1deaf2e1948192387872a64d1e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/run_rob_mots.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/run_rob_mots.py",
+    "bytes": 5817,
+    "sha256": "5d1bb96c2bb376b7cb4e00cada1e1ecab3974d6b06fad080f9e1708358a00a4a"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/tao.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/tao.py",
+    "bytes": 29848,
+    "sha256": "8190898f07dc63f6c4bc0ab77cf0e14df5aa7daa624df48855c8c89e52b65c0e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/youtube_vis.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/datasets/youtube_vis.py",
+    "bytes": 19630,
+    "sha256": "f09556ae27954ceb1f5f95cc3062fa6fee20fd10291871ff6bd6eb42cc0e2462"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/eval.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/eval.py",
+    "bytes": 11072,
+    "sha256": "559fe9dbc6c0fff7f8d81ad16f03bc2900f9e8e53f4f49cd4bdf0c24dd34eab5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/__init__.py",
+    "bytes": 212,
+    "sha256": "5fd5d495814450ecdb45e60cfd6a2b20b79c75a455d1a2ea2171a0df3cc2dc90"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/_base_metric.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/_base_metric.py",
+    "bytes": 5025,
+    "sha256": "dac8b87bf3801269aa280b1cf91184f483de4f4e5c158bd07a4b1733b1a5722b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/clear.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/clear.py",
+    "bytes": 9166,
+    "sha256": "ab3963eac401073fe1b2957c734af1e531368f42fca49627c14422350b2744f0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/count.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/count.py",
+    "bytes": 1584,
+    "sha256": "ffce9a3ed557f164f7a811f0a8cf66f609eec0af822dbc87d8fdaef560032163"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/hota.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/hota.py",
+    "bytes": 10516,
+    "sha256": "5e3c7a73b63fecd1b1486920c3a2e351e5e2177c24915f17062cd9a850ca908b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/identity.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/identity.py",
+    "bytes": 6220,
+    "sha256": "1c03dcc408163b60d75fead91e8c48283df56842056417a5dad722b3b5251553"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/ideucl.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/ideucl.py",
+    "bytes": 5514,
+    "sha256": "1009ec40533df6fb28ad3397be745394a6ab970b02920e711808cb78b1720eeb"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/j_and_f.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/j_and_f.py",
+    "bytes": 13021,
+    "sha256": "9872e658209634e5b07cb080c43308073d65fa32003c9285ecbdf2e60898dccc"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/track_map.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/track_map.py",
+    "bytes": 20871,
+    "sha256": "6b80f288756c3b9da16b5e03e2f2b4d04e3bc7020b283bc085aa6cc382c5991e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/vace.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/metrics/vace.py",
+    "bytes": 5881,
+    "sha256": "13db97a61cc7291e5356c80a0a4f11a88b75a9664a81fc903d6bd41a1cd6ffdc"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/plotting.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/plotting.py",
+    "bytes": 8400,
+    "sha256": "6d3ebada977b6990527dab143e0e4a0bbf5f1dd64f46bf214701a64acadba13f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/utils.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/TrackEval/trackeval/utils.py",
+    "bytes": 5811,
+    "sha256": "e20e57f0badcd7f9d768c96f244fbefc0fb2b4a9e28808f929f30e11aef6fc19"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/assets/overview.png",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/assets/overview.png",
+    "bytes": 442660,
+    "sha256": "7003eba9f0cb9b618931b9b5e96fab3a12322bcb5bfed023800ad92885b880a7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/__init__.py",
+    "bytes": 749,
+    "sha256": "92c0490b3756284017fe89b3173cb9d61dd5de0f687b0cdc4c8adf9838cb3f07"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/joint_dataset.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/joint_dataset.py",
+    "bytes": 10473,
+    "sha256": "e19161b188fff1341f5420049df0efaedfb7c9f84b8c84f308b4c5aa81bc2dea"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/kitti_mot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/kitti_mot.py",
+    "bytes": 6237,
+    "sha256": "aa7b5f4932dcfcf1a49456fd69572107c36a6e96593ed2810a047ac456d96b20"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/naive_sampler.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/naive_sampler.py",
+    "bytes": 6873,
+    "sha256": "9a50886253f4bcf794eb5a66a2be65a42f87d39fc29e4ecc8724aaaad0a3624d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/one_dataset.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/one_dataset.py",
+    "bytes": 845,
+    "sha256": "6553147374b0017046beb0882bc022fab2e4b03db034d1c84aefef128ac1cf16"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/refer_kitti_mot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/refer_kitti_mot.py",
+    "bytes": 11030,
+    "sha256": "ed00715564d948263a8fdd98ef59a4bdbd46f2e9780460a4f6c26314c7624be1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/seq_dataset.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/seq_dataset.py",
+    "bytes": 1651,
+    "sha256": "875d642750bded47dbed7005929b18189b47eac4740bca9117abff437507f04f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/transforms.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/transforms.py",
+    "bytes": 28590,
+    "sha256": "b5de6f4e1e06556473505c3ee32ccb099e063879df4b988d6cb5059763f6dbc4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/util.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/data/util.py",
+    "bytes": 5242,
+    "sha256": "61d10890af1d392d235f6655a12dff47002724da06de8c3c313dd23795c819b9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/demo.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/demo.py",
+    "bytes": 27096,
+    "sha256": "0342b03d7adade5957c451bf32f25dfdf5ee3a162ba87b00c0d602d86e58d823"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/DATA.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/DATA.md",
+    "bytes": 1764,
+    "sha256": "44ab37c507382e0c910322f2ab9827d1a33a46c510ffc04210072fe06dcd2eb7"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/POSSIBLE_ISSUES.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/POSSIBLE_ISSUES.md",
+    "bytes": 7643,
+    "sha256": "496d6c8e130bedf451ef720eac49b6ce6e0778e21f80eb7de912c7a694c53d8d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/USAGE.md",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/docs/USAGE.md",
+    "bytes": 9604,
+    "sha256": "ed7b4cf148aaca971567a004677f92adf0b4a67ecf0b70ef140b074f4e272d95"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/eval_refer_kitti_mot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/eval_refer_kitti_mot.py",
+    "bytes": 15454,
+    "sha256": "5588a2003d552b47a679850cdf9962ccd8fd962830f6bfccb2c592377325fdc6"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/crop_utils.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/crop_utils.py",
+    "bytes": 3036,
+    "sha256": "de03309f08abbee2cbea4f885eb2cd0afc558c0e23b8632e1c81724f1b71ef46"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/data/collate.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/data/collate.py",
+    "bytes": 5737,
+    "sha256": "bb6cfbc99843192a61b3a080ca94db8e3993216a1df3b6aa711db034750cb539"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/data/datasets.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/data/datasets.py",
+    "bytes": 24222,
+    "sha256": "3c276cbf6b26cbf754da95127c9b45227a2dc599a2e0065e9ae831e358cd74b9"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/infer_utils.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/infer_utils.py",
+    "bytes": 7690,
+    "sha256": "d046aa2ded110f829859c1e851562b0f6e4227b471d90cf60b9d8d1f7cdf8169"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_eval.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_eval.py",
+    "bytes": 72653,
+    "sha256": "0238864de01a750accdd4d0f4752f9ca0ff97b429c98851ee52ad6c7cf3ed18e"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_eval_from_mot.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_eval_from_mot.py",
+    "bytes": 64728,
+    "sha256": "3e9f1032493a6739e1f73dbf5f326015e5a66e3a3587a6d20c0de8c2b247eafd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_train.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/llm_train.py",
+    "bytes": 40025,
+    "sha256": "7dfd165b96d40228ae76f5d3f2f2a983c2ed925f8c171109b5c8cafac4d23e8c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/modeling/build.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/modeling/build.py",
+    "bytes": 3954,
+    "sha256": "bd3b391a2ec5494467ffd69ce30e52ad116819f6fa56455307b196b0f3f33297"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/tools/data_filter_gui.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/refer_llm/tools/data_filter_gui.py",
+    "bytes": 34833,
+    "sha256": "e951ab5af87036b792529eb136a8c2553c00060998d5aac769cb479d2b5b88b8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/requirements.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/requirements.txt",
+    "bytes": 6702,
+    "sha256": "adcdca98de37edaab9244d50657db874f00b39c49b7a9b5775af63c28c889053"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/apply_stability_boost.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/apply_stability_boost.py",
+    "bytes": 7940,
+    "sha256": "beb7147e8c4ec4b7591d0d710319b8cf57c89ccddefad018b0efc95a5519548d"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/compare_pedestrian_detailed_seqs.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/compare_pedestrian_detailed_seqs.py",
+    "bytes": 6808,
+    "sha256": "93b65e310c9e68179c5f35976a48d79a76196174f77014c1d42441db561d8546"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/compare_temprmot_gt.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/compare_temprmot_gt.py",
+    "bytes": 6951,
+    "sha256": "ee605c80e726c1ae8ad0add5321992e8e81f97d45197399d769508239b5c3b30"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/eval_ikun_refermllm_metrics.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/eval_ikun_refermllm_metrics.py",
+    "bytes": 15552,
+    "sha256": "69c1bc3d8d94df4c89d92a5bce4f366d793bb39fa47024af9c90f359b05fd9b4"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/export_kitti_labels_with_ids_to_coco_det.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/export_kitti_labels_with_ids_to_coco_det.py",
+    "bytes": 21279,
+    "sha256": "0a5d34e6975d5c69810993ca0902afa4afdad7176cabbf364660850d91305e91"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/plot_attr_perf_compare.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/plot_attr_perf_compare.py",
+    "bytes": 18219,
+    "sha256": "ee45e19b1b241ea9570a348155c31c136c1c2d4aaa071b1d88be3199830f07b5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/prepare_kitti_motc_gt.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/prepare_kitti_motc_gt.py",
+    "bytes": 4636,
+    "sha256": "5a5c442cfd8c7ffd4c62d80196e5b4399872e48921f5029c54102de524064e04"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/prepare_refer_kitti_motc_gt.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/prepare_refer_kitti_motc_gt.py",
+    "bytes": 9725,
+    "sha256": "f485e167fc2d1fe300dd497fdff4bdd1743f75d0759070fc04e2e9adf4d9ab99"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/restore_commas_in_refer.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/restore_commas_in_refer.py",
+    "bytes": 8183,
+    "sha256": "a1f9e36f5e1ab2221dd9ff6378d6dcaaa96098e1d6ee1785b7b48736e1b938c1"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/tools.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/tools.py",
+    "bytes": 743,
+    "sha256": "a34f968e4c8b008d3b1ff6cc9b1f0e4e43e40388ec944697ef794835b33ca790"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_kitti_sequences_to_mp4.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_kitti_sequences_to_mp4.py",
+    "bytes": 3971,
+    "sha256": "db4c6ded2927369e41946b9388678ee42698cb4383801177b4d71253f56535bb"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_mot_conf.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_mot_conf.py",
+    "bytes": 9830,
+    "sha256": "1a5621171aa088e30562b11683b0b9a097721a2773440cc27ccffe8e83e7767b"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_mot_dir.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_mot_dir.py",
+    "bytes": 12663,
+    "sha256": "215e7fd5978b12ccaa83ee0b3f8e652d4a5cd9b62ba634cb2ce70c657979d3b8"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_refer_seq.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/tools/visualize_refer_seq.py",
+    "bytes": 7615,
+    "sha256": "9837fc1652b4a79d06f9f34e69ea4ab9772a5c705bb034bded7e63fd110228cd"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/__init__.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/__init__.py",
+    "bytes": 49,
+    "sha256": "21c86257ff276c946dc263b8182b0fc6becb0cc359ad5a860360dd1839b93d64"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/box_ops.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/box_ops.py",
+    "bytes": 3072,
+    "sha256": "f06576053e09de551a8ec1b0fe244f687e9cc5f1da9fa336e2cf0731065398d0"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/misc.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/misc.py",
+    "bytes": 1570,
+    "sha256": "734f5d6597f25f62accfbdc25976faf81d11f5c0d69b49b1a0cd71fdd79a516f"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/nested_tensor.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream/YesTrack/utils/nested_tensor.py",
+    "bytes": 3992,
+    "sha256": "e1fe88e5dc67eb54de4f7bf6b61e00a13a89b7c52dfac5c954942433d7eee46c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/upstream_public_resource_inventory.json",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/upstream_public_resource_inventory.json",
+    "bytes": 1665,
+    "sha256": "beed00f4bd502404c93fbd7d86c52abe0ea9184429bbd527a8d58b9c755fd296"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/validate_r56.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/validate_r56.py",
+    "bytes": 9382,
+    "sha256": "98a59c7c843453622f96cd281d04319225c05ff0893e88244cb539a419d1d811"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/validate_r58.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/validate_r58.py",
+    "bytes": 4365,
+    "sha256": "6b78d398e584e6688e14ee85be6f114e29170609b2a758f117e8a46badbc0494"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/wait_round2.py",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/wait_round2.py",
+    "bytes": 4982,
+    "sha256": "a50b643023e3e2a7a76ea0252449dcb24b033549b9e66d3ce09aa076828bef3c"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/yestrack_mot_asset_paths.txt",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/yestrack_mot_asset_paths.txt",
+    "bytes": 297,
+    "sha256": "36e8bd3589b653ea3f445b50c9e00855f555fecf4fd2c5a2aec88ec84736cad5"
+  },
+  {
+    "original": "/data2/user/LocateMOT_GroundJEV/yestrack_diagnosis_20261101/analysis/yestrack_mot_asset_search_errors.log",
+    "local": "/data3/liuyeqiang/YesTrackV2/yestrack_diagnosis_20261101/analysis/yestrack_mot_asset_search_errors.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "registered_date_asia_shanghai": "2026-11-02",
+  "seed": 2025,
+  "run_number": "R53",
+  "physical_GPUs": [
+    5,
+    7
+  ],
+  "authorization": "User follow-up explicitly authorizes native Delta10 TempRMOT* trace run if sparse HMM gain>=2 and runtime estimate<8h",
+  "CPU_result": "V4_D10_LOSO HOTA69.48208282158902, +4.250096012830255; all4 sequence gains positive",
+  "candidate_rows": 1850576,
+  "expressions": 862,
+  "observation_delta": 10,
+  "new_ID_inference": "immediate native behavior",
+  "inference": "Original R09 native controller with same parameters, published weights and seed; passive observed_inference.py exactly as R17; one forward run only",
+  "runtime_estimate": {
+    "R09_two_GPU_wall_seconds": 7950.856446027756,
+    "R22_measured_sharing": {
+      "frame": {
+        "normal_three_GPU_mean_candidates_per_second": 37.68620282575824,
+        "shared_GPU5_candidates_per_second": 11.605533562509365,
+        "slowdown_ratio": 3.247261543191787
+      },
+      "video": {
+        "normal_three_GPU_mean_candidates_per_second": 9.940031138320816,
+        "shared_GPU5_candidates_per_second": 4.516956885413194,
+        "slowdown_ratio": 2.200603501534538
+      }
+    },
+    "sharing_multiplier": 3.247261543191787,
+    "estimated_wall_hours": 7.171808436840127,
+    "assumptions": "Use worst observed R22 phase slowdown of sharedGPU5 versus meanGPU3/4/6, applied conservatively to entireR09 elapsed time; selectedGPU5/7 currently share Showo/DCVC workloads; loads may change, no guaranteed end time"
+  },
+  "frozen_offline_variants": [
+    "Actual_V0",
+    "Actual_V1",
+    "Actual_V2",
+    "Actual_HMM10_fixed",
+    "Actual_HMM10_LOSO"
+  ],
+  "fixed_HMM": {
+    "temperature": 1.0,
+    "bias": 0.0,
+    "p_stay": 0.95,
+    "posterior_threshold": 0.5
+  },
+  "LOSO_HMM": "Transfer frozen R52 GT-candidate training-fold parameters and priors to actual candidates of each held-out sequence; fit zero parameters on actual candidates",
+  "skipped_frames": "transition prediction only, no emission; exact native observation schedule from trace",
+  "native_gate": "all862/1850576 replayed final scores must match this native traced run after Python6-place formatting <=1e-12; otherwise stop",
+  "comparison_to_R09": "report exact score drift and gamma0.6 decision differences; use paired traced V0 for all actual gains; retain original baseline40.427 separately",
+  "metrics": "unmodified official TrackEval gamma.6/min-area20; HOTA/DetA/AssA/DetPr/DetRe overall, per-sequence, per-class; conditional referringP/R/F1 using frozenR20 HungarianIoU>=.5 labels; emptyGTframeFAR",
+  "full_frame_GPU_cache": false,
+  "official_weights_and_source_modified": false
+}
